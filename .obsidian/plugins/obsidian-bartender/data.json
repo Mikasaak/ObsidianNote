@@ -14,11 +14,15 @@
       "Notion/Getting Started.md"
     ],
     "/": [
-      "attachments",
       "Home.md",
-      "obsdian技巧学习",
+      "attachments",
+      "日记",
       "Notion",
+      "obsdian技巧学习",
       "使用的插件",
+      "Code",
+      "工具",
+      "求职",
       "Excalidraw"
     ],
     "Notion/Code": [
@@ -29,6 +33,17 @@
       "Notion/Code/构建工具",
       "Notion/Code/Code.md",
       "Notion/Code/Node.js"
+    ],
+    "Code": [
+      "Code/Vue",
+      "Code/JavaScript",
+      "Code/CSS",
+      "Code/HTML",
+      "Code/uni-app",
+      "Code/微信小程序",
+      "Code/构建工具",
+      "Code/Code.md",
+      "Code/Node.js"
     ]
   },
   "actionBarOrder": {},

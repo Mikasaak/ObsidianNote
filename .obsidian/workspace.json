@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用的插件/插件列表.md",
+                "file": "工具/好用的浏览器扩展/好用的浏览器扩展.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用的插件/插件列表.md"
+                "file": "使用的插件/使用的插件.md"
               }
             }
           }
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用的插件/插件列表.md",
+                "file": "使用的插件/使用的插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用的插件/插件列表.md",
+                "file": "使用的插件/使用的插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,46 +212,45 @@
       "media-extended:Open media": false
     }
   },
-  "active": "d59c509d8e13d988",
+  "active": "91b442337c41a6c3",
   "lastOpenFiles": [
-    "obsdian技巧学习/插件学习/插件学习.md",
-    "obsdian技巧学习/obsdian技巧学习.md",
-    "Code/微信小程序/黑马课程/黑马课程.md",
-    "Code/微信小程序/微信小程序.md",
-    "Code/构建工具/构建工具.md",
-    "Code/构建工具/Vite/Vite.md",
+    "任务/任务.md",
+    "读书",
+    "任务/_index_of_任务.md",
+    "动漫/_index_of_动漫.md",
+    "电影/_index_of_电影.md",
+    "游戏/_index_of_游戏.md",
+    "电影/电影.md",
+    "游戏/游戏.md",
+    "动漫/动漫.md",
+    "attachments/attachments.md",
     "Code/Code.md",
-    "obsdian技巧学习/插件学习/DataView/DataView.md",
-    "obsdian技巧学习/插件学习/未命名.md",
-    "Code/uni-app/uni-app.md",
-    "工具/工具.md",
-    "工具/好用的浏览器扩展/好用的浏览器扩展.md",
-    "日记/2024-02-26.md",
-    "求职/求职.md",
-    "使用的插件/使用的插件.md",
-    "Home.md",
-    "Excalidraw/Drawing 2024-03-29 15.58.35.excalidraw.md",
-    "使用的插件/插件列表.md",
+    "Code/Vue/插件-库/插件-库.md",
+    "Code/Vue/Vue.md",
+    "Code/Node.js/Node.js.md",
+    "Code/JavaScript",
+    "Code/CSS/CSS.md",
+    "Code/HTML",
+    "Code/微信小程序/微信小程序.md",
     "Notion/Notion.md",
-    "Notion/阅读清单/阅读清单.md",
-    "Notion/日志/日志.md",
-    "Notion/Getting Started.md",
-    "未命名 1.md",
-    "日记/_index_of_日记.md",
-    "未命名.md",
+    "求职/求职.md",
+    "任务",
+    "Code/构建工具/构建工具.md",
+    "动漫",
+    "游戏",
+    "电影",
+    "Code/CSS/收藏的样式练习/收藏的样式练习.md",
+    "Code/CSS/你不知道的 CSS 之包含块.md",
+    "Code/CSS/CSS 属性计算过程.md",
+    "Code/CSS/Tailwind CSS/Tailwind CSS.md",
+    "Excalidraw/Excalidraw.md",
+    "工具/工具.md",
+    "Code/Vue/Note for Vue/Note for Vue.md",
+    "未命名 1",
     "日记",
-    "2024-03-02.md",
     "obsdian技巧学习/插件学习",
     "attachments/Webpack.png",
     "attachments/%E5%B7%A5%E5%85%B7.png",
-    "obsdian技巧学习/插件学习/DataView",
-    "obsdian技巧学习",
-    "1",
-    "使用的插件",
-    "使用的插件/test",
-    "使用的插件",
-    "obsdian技巧学习/插件学习/DataView",
-    "obsdian技巧学习",
     "attachments/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.png",
     "attachments/Untitled 10 4.png",
     "attachments/Untitled 9 4.png",

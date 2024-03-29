@@ -1,0 +1,7 @@
+{
+  "deleteOption": ".trash",
+  "logsModal": true,
+  "excludedFolders": "../.obsidian/icons/my-icon",
+  "ribbonIcon": false,
+  "excludeSubfolders": true
+}

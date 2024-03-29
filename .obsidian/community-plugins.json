@@ -1,7 +1,6 @@
 [
   "link-favicon",
   "obsidian-rich-links",
-  "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
   "obsidian-minimal-settings",
@@ -9,7 +8,6 @@
   "calendar",
   "templater-obsidian",
   "obsidian-mind-map",
-  "oz-clear-unused-images",
   "obsidian-full-calendar",
   "tag-wrangler",
   "file-tree-alternative",
@@ -27,7 +25,6 @@
   "floating-toc",
   "obsidian-importer",
   "remotely-save",
-  "obsidian-git",
   "obsidian42-brat",
   "obsidian-bartender",
   "remember-cursor-position",
@@ -47,5 +44,6 @@
   "zoottelkeeper-obsidian-plugin",
   "metadata-menu",
   "obsidian-linter",
-  "obsidian-hider"
+  "obsidian-hider",
+  "obsidian-icon-folder"
 ]

@@ -3,7 +3,7 @@
   "homepages": {
     "Main Homepage": {
       "value": "Home",
-      "kind": "File",
+      "kind": "Graph view",
       "openOnStartup": false,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
