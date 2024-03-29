@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "810f13117f36daa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1e63b6045a43a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b442337c41a6c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "使用的插件/使用的插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d59c509d8e13d988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "使用的插件/插件列表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60e9b5e238255de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsdian技巧学习/obsdian技巧学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dba2df6814e9f01c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9541095ce6b05098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68cd04d84cf17f60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "b7739b3f9f4c5513",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#效果",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4cde5858b1b991b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "fca66a9ab4050cb6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "3438b45615966122",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "04f1a7438dc89150",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0b91c0f010beca",
+        "type": "tabs",
+        "dimension": 39.52702702702703,
+        "children": [
+          {
+            "id": "e858f583c5f3964a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "621dbf4087b54c7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "使用的插件/插件列表.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5442c260e910343",
+        "type": "tabs",
+        "dimension": 60.47297297297297,
+        "children": [
+          {
+            "id": "3dd921ef91f6761a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b9b451bbbbcd7b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "使用的插件/插件列表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70ff6da13fff2e7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "使用的插件/插件列表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templates:插入模板": false,
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "command-palette:打开命令面板": true,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-rich-links:Rich Links": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-importer:Open Importer": false,
+      "remotely-save:Remotely Save": false,
+      "file-tree-alternative:File Tree Alternative Plugin": true,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "d59c509d8e13d988",
+  "lastOpenFiles": [
+    "obsdian技巧学习/插件学习/插件学习.md",
+    "obsdian技巧学习/obsdian技巧学习.md",
+    "Code/微信小程序/黑马课程/黑马课程.md",
+    "Code/微信小程序/微信小程序.md",
+    "Code/构建工具/构建工具.md",
+    "Code/构建工具/Vite/Vite.md",
+    "Code/Code.md",
+    "obsdian技巧学习/插件学习/DataView/DataView.md",
+    "obsdian技巧学习/插件学习/未命名.md",
+    "Code/uni-app/uni-app.md",
+    "工具/工具.md",
+    "工具/好用的浏览器扩展/好用的浏览器扩展.md",
+    "日记/2024-02-26.md",
+    "求职/求职.md",
+    "使用的插件/使用的插件.md",
+    "Home.md",
+    "Excalidraw/Drawing 2024-03-29 15.58.35.excalidraw.md",
+    "使用的插件/插件列表.md",
+    "Notion/Notion.md",
+    "Notion/阅读清单/阅读清单.md",
+    "Notion/日志/日志.md",
+    "Notion/Getting Started.md",
+    "未命名 1.md",
+    "日记/_index_of_日记.md",
+    "未命名.md",
+    "日记",
+    "2024-03-02.md",
+    "obsdian技巧学习/插件学习",
+    "attachments/Webpack.png",
+    "attachments/%E5%B7%A5%E5%85%B7.png",
+    "obsdian技巧学习/插件学习/DataView",
+    "obsdian技巧学习",
+    "1",
+    "使用的插件",
+    "使用的插件/test",
+    "使用的插件",
+    "obsdian技巧学习/插件学习/DataView",
+    "obsdian技巧学习",
+    "attachments/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.png",
+    "attachments/Untitled 10 4.png",
+    "attachments/Untitled 9 4.png",
+    "attachments/Untitled 8 4.png",
+    "attachments/Untitled 7 4.png",
+    "attachments/Untitled 6 4.png",
+    "attachments/Untitled 5 4.png",
+    "attachments/Untitled 4 5.png",
+    "未命名.canvas"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_index.*",
+    "/_index_of_.*/"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "showStatusBarItem": true,
+  "filterSettings": {
+    "FeaturedFirst": true,
+    "StrictSearch": false,
+    "HighlightCustom": false,
+    "HighlightDuplicates": true,
+    "DisplayWOhotkeys": false,
+    "DisplayIDs": true
+  },
+  "featuredCommandIDs": [
+    "command-palette:open",
+    "switcher:open",
+    "app:open-settings",
+    "keyboard-analyzer:show-shortcuts-analyzer-view",
+    "global-search:open"
+  ]
+}

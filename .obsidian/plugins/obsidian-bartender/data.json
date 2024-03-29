@@ -1,0 +1,38 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "Notion": [
+      "Notion/Code",
+      "Notion/工具",
+      "Notion/求职",
+      "Notion/个人主页",
+      "Notion/快速笔记",
+      "Notion/任务清单",
+      "Notion/日志",
+      "Notion/阅读清单",
+      "Notion/Getting Started.md"
+    ],
+    "/": [
+      "attachments",
+      "Home.md",
+      "obsdian技巧学习",
+      "Notion",
+      "使用的插件",
+      "Excalidraw"
+    ],
+    "Notion/Code": [
+      "Notion/Code/Vue",
+      "Notion/Code/微信小程序",
+      "Notion/Code/CSS",
+      "Notion/Code/uni-app",
+      "Notion/Code/构建工具",
+      "Notion/Code/Code.md",
+      "Notion/Code/Node.js"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": true,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

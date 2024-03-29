@@ -1,0 +1,6 @@
+obsdian
+Overview
+current
+file
+folder
+DataView
