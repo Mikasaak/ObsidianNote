@@ -1,11 +1,40 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "733119bd-19d8-42c4-9d12-1a949edc15cb",
+      "name": "create_same_name_node",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templates/zoottel_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
-  "inputPrompt": "single-line",
+  "inputPrompt": "multi-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "templates",
   "announceUpdates": true,
-  "version": "0.14.0",
+  "version": "1.8.1",
   "disableOnlineFeatures": true,
   "ai": {
     "defaultModel": "Ask me",
@@ -55,7 +84,7 @@
     "useQuickAddTemplateFolder": true,
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
-    "setVersionAfterUpdateModalRelease": false,
-    "addDefaultAIProviders": false
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
   }
 }

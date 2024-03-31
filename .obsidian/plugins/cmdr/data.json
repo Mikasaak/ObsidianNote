@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [
@@ -8,16 +8,15 @@
       "icon": "building",
       "name": "Format code: TypeScript",
       "mode": "any"
-    }
-  ],
-  "fileMenu": [
+    },
     {
-      "id": "workspace:copy-path",
-      "icon": "lucide-copy",
-      "name": "复制当前文件的路径",
+      "id": "convert-url-to-iframe:url-to-iframe",
+      "icon": "airplay",
+      "name": "Convert url to preview (iframe): URL to Preview/Iframe",
       "mode": "any"
     }
   ],
+  "fileMenu": [],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],

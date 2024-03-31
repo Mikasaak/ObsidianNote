@@ -1,5 +1,5 @@
 {
-  "indexPrefix": "_index_of_",
+  "indexPrefix": "",
   "indexItemStyle": "pureLink",
   "indexTagValue": "MOC",
   "indexTagBoolean": true,
@@ -12,8 +12,8 @@
   "foldersExcluded": "",
   "foldersIncluded": "",
   "sortOrder": "asc",
-  "addSquareBrackets": true,
+  "addSquareBrackets": false,
   "embedSubIndex": false,
-  "templateFile": "",
+  "templateFile": "templates/zoottel_template.md",
   "frontMatterSeparator": "---"
 }

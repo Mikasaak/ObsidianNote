@@ -1,9 +1,9 @@
 {
-  "folderNoteHide": true,
+  "folderNoteHide": false,
   "folderNoteType": "inside",
   "folderNoteName": "_about_",
   "folderNoteKey": "ctrl",
   "folderNoteAutoRename": true,
   "folderDelete2Note": false,
-  "folderNoteStrInit": "# {{FOLDER_NAME}} \n\n```dataviewjs\nlet current = dv.current()\nlet currentFolder = current.file.folder\nlet arr = dv.pages(`\"${currentFolder}\"`)\nlet reg_head = /^_index_of_.*/\nlet outArr = arr\n/*\n因为点开文件夹能显示内容是Floder Note 插件的功能\n当你新建了一个文件夹 用ctrl + click 点击会在 该点击文件夹里面建立一个新的与文件夹同名的md文件作为文件夹主页描述文件\n\n过滤出文件夹层级相同 或者 比当前文件夹层级深一级的文件\n*/\n.filter (item => {\n\n\tlet currentFolderDeep = currentFolder.split('/').length\n\tlet itemFolderDeep = item.file.folder.split('/').length\n\tif(currentFolderDeep === itemFolderDeep ||\n\tcurrentFolderDeep + 1 === itemFolderDeep\n\t) return true\n\telse {\n\t\treturn false\n\t}\n})\n/*\n过滤出同一级文件夹中的文章以及下一级文件夹的主页描述文件\n*/\n.filter(item=>{\n\tlet fileFolder = item.file.folder.split('/')\n\tlet folderEnd = fileFolder[fileFolder.length - 1]\n\treturn (\n\t\titem.file.folder===current.file.folder||\n\t\tfolderEnd===item.file.name\n\t)\n})\n/*\n去除—_index_of_开头的文件\n*/\n.filter(item => {\n\treturn !reg_head.test(item.file.name)\n})\n/*\n去除自身描述文件\n*/\n.filter(item => {\n\tconsole.log (item.file.path === current.file.path)\n\treturn !(item.file.path === current.file.path)\n})\n.sort(p=>p.file.ctime,'asc').map(p=>p.file.link)\ndv.list(outArr)\n\n```\n\n\n\n{{FOLDER_BRIEF_LIVE}} \n\n"
+  "folderNoteStrInit": ""
 }

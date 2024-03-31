@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Code",
+      "path": "Code/Code.md"
+    },
+    {
       "basename": "使用的插件",
       "path": "使用的插件/使用的插件.md"
     },
@@ -9,124 +13,28 @@
       "path": "任务/任务.md"
     },
     {
-      "basename": "电影",
-      "path": "电影/电影.md"
+      "basename": "obsdian技巧学习",
+      "path": "obsdian技巧学习/obsdian技巧学习.md"
+    },
+    {
+      "basename": "读书",
+      "path": "读书/读书.md"
     },
     {
       "basename": "游戏",
       "path": "游戏/游戏.md"
     },
     {
+      "basename": "日记",
+      "path": "日记/日记.md"
+    },
+    {
+      "basename": "电影",
+      "path": "电影/电影.md"
+    },
+    {
       "basename": "动漫",
       "path": "动漫/动漫.md"
-    },
-    {
-      "basename": "attachments",
-      "path": "attachments/attachments.md"
-    },
-    {
-      "basename": "Code",
-      "path": "Code/Code.md"
-    },
-    {
-      "basename": "插件-库",
-      "path": "Code/Vue/插件-库/插件-库.md"
-    },
-    {
-      "basename": "Vue",
-      "path": "Code/Vue/Vue.md"
-    },
-    {
-      "basename": "Node.js",
-      "path": "Code/Node.js/Node.js.md"
-    },
-    {
-      "basename": "CSS",
-      "path": "Code/CSS/CSS.md"
-    },
-    {
-      "basename": "微信小程序",
-      "path": "Code/微信小程序/微信小程序.md"
-    },
-    {
-      "basename": "Notion",
-      "path": "Notion/Notion.md"
-    },
-    {
-      "basename": "求职",
-      "path": "求职/求职.md"
-    },
-    {
-      "basename": "构建工具",
-      "path": "Code/构建工具/构建工具.md"
-    },
-    {
-      "basename": "收藏的样式练习",
-      "path": "Code/CSS/收藏的样式练习/收藏的样式练习.md"
-    },
-    {
-      "basename": "你不知道的 CSS 之包含块",
-      "path": "Code/CSS/你不知道的 CSS 之包含块.md"
-    },
-    {
-      "basename": "CSS 属性计算过程",
-      "path": "Code/CSS/CSS 属性计算过程.md"
-    },
-    {
-      "basename": "Tailwind CSS",
-      "path": "Code/CSS/Tailwind CSS/Tailwind CSS.md"
-    },
-    {
-      "basename": "Excalidraw",
-      "path": "Excalidraw/Excalidraw.md"
-    },
-    {
-      "basename": "工具",
-      "path": "工具/工具.md"
-    },
-    {
-      "basename": "Note for Vue",
-      "path": "Code/Vue/Note for Vue/Note for Vue.md"
-    },
-    {
-      "basename": "遇到的问题",
-      "path": "Code/Vue/遇到的问题/遇到的问题.md"
-    },
-    {
-      "basename": "课程笔记",
-      "path": "Code/Vue/课程笔记/课程笔记.md"
-    },
-    {
-      "basename": "Vue2",
-      "path": "Code/Vue/课程笔记/Vue2/Vue2.md"
-    },
-    {
-      "basename": "uni-app",
-      "path": "Code/uni-app/uni-app.md"
-    },
-    {
-      "basename": "Webpack",
-      "path": "Code/构建工具/Webpack/Webpack.md"
-    },
-    {
-      "basename": "Vite",
-      "path": "Code/构建工具/Vite/Vite.md"
-    },
-    {
-      "basename": "黑马课程",
-      "path": "Code/微信小程序/黑马课程/黑马课程.md"
-    },
-    {
-      "basename": "obsdian技巧学习",
-      "path": "obsdian技巧学习/obsdian技巧学习.md"
-    },
-    {
-      "basename": "插件学习",
-      "path": "obsdian技巧学习/插件学习/插件学习.md"
-    },
-    {
-      "basename": "主页的设计编辑",
-      "path": "obsdian技巧学习/主页的设计编辑.md"
     },
     {
       "basename": "插件个人评级",
@@ -134,71 +42,163 @@
     },
     {
       "basename": "插件列表",
-      "path": "使用的插件/插件列表.md"
+      "path": "使用的插件/插件列表/插件列表.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Auto Link Title---自动提取页面的标题",
+      "path": "使用的插件/插件列表/Auto Link Title---自动提取页面的标题.md"
     },
     {
-      "basename": "面试",
-      "path": "求职/面试/面试.md"
+      "basename": "Bartender---文件夹、文件 拖转",
+      "path": "使用的插件/插件列表/Bartender---文件夹、文件 拖转.md"
     },
     {
-      "basename": "浏览器渲染原理",
-      "path": "求职/面试/浏览器渲染原理.md"
+      "basename": "Editing Toolbar---页面顶部编辑栏",
+      "path": "使用的插件/插件列表/Editing Toolbar---页面顶部编辑栏.md"
     },
     {
-      "basename": "事件循环",
-      "path": "求职/面试/事件循环.md"
+      "basename": "File Explorer Note Count---增加文件数量统计功能",
+      "path": "使用的插件/插件列表/File Explorer Note Count---增加文件数量统计功能.md"
     },
     {
-      "basename": "笔试",
-      "path": "求职/笔试/笔试.md"
+      "basename": "Vue",
+      "path": "Code/Vue/Vue.md"
     },
     {
-      "basename": "好用的浏览器扩展",
-      "path": "工具/好用的浏览器扩展/好用的浏览器扩展.md"
+      "basename": "JavaScript",
+      "path": "Code/JavaScript/JavaScript.md"
     },
     {
-      "basename": "好用的软件",
-      "path": "工具/好用的软件/好用的软件.md"
+      "basename": "CSS",
+      "path": "Code/CSS/CSS.md"
     },
     {
-      "basename": "CSS书写规范",
-      "path": "Code/CSS/CSS书写规范/CSS书写规范.md"
+      "basename": "HTML",
+      "path": "Code/HTML/HTML.md"
     },
     {
-      "basename": "Drawing 2024-03-26 14.55.40.excalidraw",
-      "path": "Excalidraw/Drawing 2024-03-26 14.55.40.excalidraw.md"
+      "basename": "uni-app",
+      "path": "Code/uni-app/uni-app.md"
     },
     {
-      "basename": "DataView",
-      "path": "obsdian技巧学习/插件学习/DataView/DataView.md"
+      "basename": "构建工具",
+      "path": "Code/构建工具/构建工具.md"
     },
     {
-      "basename": "API接口使用URL",
-      "path": "工具/API接口使用URL/API接口使用URL.md"
+      "basename": "Quicker",
+      "path": "工具/好用的软件推荐/好用的软件列表/Quicker.md"
     },
     {
-      "basename": "个人主页",
-      "path": "Notion/个人主页/个人主页.md"
+      "basename": "PowerToys",
+      "path": "工具/好用的软件推荐/好用的软件列表/PowerToys.md"
     },
     {
-      "basename": "Yearly Goals",
-      "path": "Notion/个人主页/Yearly Goals.md"
+      "basename": "Pot",
+      "path": "工具/好用的软件推荐/好用的软件列表/Pot.md"
     },
     {
-      "basename": "Movie List",
-      "path": "Notion/个人主页/Movie List.md"
+      "basename": "PixPin",
+      "path": "工具/好用的软件推荐/好用的软件列表/PixPin.md"
     },
     {
-      "basename": "日志",
-      "path": "Notion/日志/日志.md"
+      "basename": "Listary",
+      "path": "工具/好用的软件推荐/好用的软件列表/Listary.md"
     },
     {
-      "basename": "Getting Started",
-      "path": "Notion/Getting Started.md"
+      "basename": "IObit Unlocker",
+      "path": "工具/好用的软件推荐/好用的软件列表/IObit Unlocker.md"
+    },
+    {
+      "basename": "HitBIt",
+      "path": "工具/好用的软件推荐/好用的软件列表/HitBIt.md"
+    },
+    {
+      "basename": "geek",
+      "path": "工具/好用的软件推荐/好用的软件列表/geek.md"
+    },
+    {
+      "basename": "FluntSearch",
+      "path": "工具/好用的软件推荐/好用的软件列表/FluntSearch.md"
+    },
+    {
+      "basename": "Everything",
+      "path": "工具/好用的软件推荐/好用的软件列表/Everything.md"
+    },
+    {
+      "basename": "Dism++",
+      "path": "工具/好用的软件推荐/好用的软件列表/Dism++.md"
+    },
+    {
+      "basename": "好用的软件列表",
+      "path": "工具/好用的软件推荐/好用的软件列表/好用的软件列表.md"
+    },
+    {
+      "basename": "CopyQ",
+      "path": "工具/好用的软件推荐/好用的软件列表/CopyQ.md"
+    },
+    {
+      "basename": "草特码",
+      "path": "工具/好用的软件推荐/好用的软件列表/草特码.md"
+    },
+    {
+      "basename": "好用的软件列表汇总",
+      "path": "工具/好用的软件推荐/好用的软件列表汇总.md"
+    },
+    {
+      "basename": "好用的软件推荐",
+      "path": "工具/好用的软件推荐/好用的软件推荐.md"
+    },
+    {
+      "basename": "好用的浏览器扩展推荐",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展推荐.md"
+    },
+    {
+      "basename": "好用的浏览器扩展列表",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/好用的浏览器扩展列表.md"
+    },
+    {
+      "basename": "沉浸式翻译- 双语对照网页翻译 & PDF文档翻译",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/沉浸式翻译- 双语对照网页翻译 & PDF文档翻译.md"
+    },
+    {
+      "basename": "WeTab-AI新标签页",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/WeTab-AI新标签页.md"
+    },
+    {
+      "basename": "Wappalyzer - Technology profiler",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/Wappalyzer - Technology profiler.md"
+    },
+    {
+      "basename": "Vue.js devtools",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/Vue.js devtools.md"
+    },
+    {
+      "basename": "VisBug",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/VisBug.md"
+    },
+    {
+      "basename": "UiTab 新标签页",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/UiTab 新标签页.md"
+    },
+    {
+      "basename": "SingleFile",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/SingleFile.md"
+    },
+    {
+      "basename": "uBlock Origin",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/uBlock Origin.md"
+    },
+    {
+      "basename": "Qwer PDF",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/Qwer PDF.md"
+    },
+    {
+      "basename": "Proxy SwitchyOmega",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/Proxy SwitchyOmega.md"
+    },
+    {
+      "basename": "Pixiv工具箱",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/Pixiv工具箱.md"
     }
   ],
   "omittedPaths": [],

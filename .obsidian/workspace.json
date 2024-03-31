@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d1e63b6045a43a4",
+        "id": "7ffb992fe47ea5c7",
         "type": "tabs",
         "children": [
           {
-            "id": "91b442337c41a6c3",
+            "id": "b38cf8f652a45e0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用的插件/使用的插件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d59c509d8e13d988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/好用的浏览器扩展/好用的浏览器扩展.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60e9b5e238255de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsdian技巧学习/obsdian技巧学习.md",
+                "file": "Code/Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#效果",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,11 +110,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用的插件/使用的插件.md"
+                "file": "Code/Code.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c5442c260e910343",
@@ -162,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用的插件/使用的插件.md",
+                "file": "Code/Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用的插件/使用的插件.md",
+                "file": "Code/Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "homepage:Open homepage": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -205,60 +183,60 @@
       "templater-obsidian:Templater": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-rich-links:Rich Links": false,
-      "obsidian42-brat:BRAT": false,
       "obsidian-importer:Open Importer": false,
+      "media-extended:Open media": false,
       "remotely-save:Remotely Save": false,
-      "file-tree-alternative:File Tree Alternative Plugin": true,
-      "media-extended:Open media": false
+      "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "91b442337c41a6c3",
+  "active": "b38cf8f652a45e0d",
   "lastOpenFiles": [
+    "使用的插件/使用的插件.md",
     "任务/任务.md",
-    "读书",
-    "任务/_index_of_任务.md",
-    "动漫/_index_of_动漫.md",
-    "电影/_index_of_电影.md",
-    "游戏/_index_of_游戏.md",
-    "电影/电影.md",
+    "obsdian技巧学习/obsdian技巧学习.md",
+    "读书/读书.md",
     "游戏/游戏.md",
+    "日记/日记.md",
+    "电影/电影.md",
     "动漫/动漫.md",
-    "attachments/attachments.md",
-    "Code/Code.md",
-    "Code/Vue/插件-库/插件-库.md",
-    "Code/Vue/Vue.md",
-    "Code/Node.js/Node.js.md",
-    "Code/JavaScript",
-    "Code/CSS/CSS.md",
-    "Code/HTML",
-    "Code/微信小程序/微信小程序.md",
-    "Notion/Notion.md",
-    "求职/求职.md",
-    "任务",
-    "Code/构建工具/构建工具.md",
-    "动漫",
-    "游戏",
-    "电影",
-    "Code/CSS/收藏的样式练习/收藏的样式练习.md",
-    "Code/CSS/你不知道的 CSS 之包含块.md",
-    "Code/CSS/CSS 属性计算过程.md",
-    "Code/CSS/Tailwind CSS/Tailwind CSS.md",
-    "Excalidraw/Excalidraw.md",
-    "工具/工具.md",
-    "Code/Vue/Note for Vue/Note for Vue.md",
-    "未命名 1",
-    "日记",
-    "obsdian技巧学习/插件学习",
-    "attachments/Webpack.png",
+    "使用的插件/插件个人评级.md",
+    "使用的插件/插件列表/插件列表.md",
+    "使用的插件/插件列表/Auto Link Title---自动提取页面的标题.md",
+    "使用的插件/插件列表/Bartender---文件夹、文件 拖转.md",
+    "使用的插件/插件列表/插件列表list.md",
+    "使用的插件/插件列表/Auto Link Title---自动提取页面的标题 1.md",
+    "使用的插件/插件列表/Editing Toolbar---页面顶部编辑栏.md",
+    "使用的插件/插件列表/File Explorer Note Count---增加文件数量统计功能.md",
+    "使用的插件/插件列表/Link Favicons.md",
+    "使用的插件/插件列表/lconize.md",
+    "使用的插件/插件列表/Hover Editor.md",
+    "使用的插件/插件列表/Homepage.md",
+    "使用的插件/插件列表/Highlightr.md",
+    "使用的插件/插件列表/Hider.md",
+    "使用的插件/插件列表/Global Proxy.md",
+    "使用的插件/插件列表/Full Calendar.md",
+    "使用的插件/插件列表/Folder Note.md",
+    "使用的插件/插件列表/Floating TOC---悬浮式目录.md",
+    "attachments/%E5%B7%A5%E5%85%B7 2.png",
     "attachments/%E5%B7%A5%E5%85%B7.png",
-    "attachments/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.png",
-    "attachments/Untitled 10 4.png",
-    "attachments/Untitled 9 4.png",
-    "attachments/Untitled 8 4.png",
-    "attachments/Untitled 7 4.png",
-    "attachments/Untitled 6 4.png",
-    "attachments/Untitled 5 4.png",
-    "attachments/Untitled 4 5.png",
+    "ObsidianNote.zip",
+    "attachments/Untitled 57 3.png",
+    "attachments/Untitled 57 4.png",
+    "attachments/Untitled 57.png",
+    "attachments/Untitled.png",
+    "attachments/Untitled 84.png",
+    "attachments/Untitled 50.png",
+    "attachments/Untitled 50 4.png",
+    "工具/API接口/网络请求API汇总",
+    "工具/API接口/网络请求API列表",
+    "Code/CSS/CSS笔记",
+    "attachments/Untitled 10 8.png",
+    "Code/Vue/课程笔记/Vue其他",
+    "Code/Vue/课程笔记/Vue3",
+    "Code/Vue/课程笔记/Vue2",
+    "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表",
+    "工具/好用的软件推荐/好用的软件列表",
+    "工具/API接口/URL直接使用API列表",
     "未命名.canvas"
   ]
 }

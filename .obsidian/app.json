@@ -7,5 +7,6 @@
   "userIgnoreFilters": [
     "_index.*",
     "/_index_of_.*/"
-  ]
+  ],
+  "propertiesInDocument": "visible"
 }
