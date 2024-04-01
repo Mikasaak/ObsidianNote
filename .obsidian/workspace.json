@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ffb992fe47ea5c7",
+        "id": "73c553db961e4dbc",
         "type": "tabs",
         "children": [
           {
-            "id": "b38cf8f652a45e0d",
+            "id": "fec76d76be1399f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Code.md",
+                "file": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Code.md"
+                "file": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Code.md",
+                "file": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Code.md",
+                "file": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,34 +190,35 @@
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "b38cf8f652a45e0d",
+  "active": "fec76d76be1399f1",
   "lastOpenFiles": [
+    "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/AdBlock — 最佳广告拦截工具.md",
+    "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md",
+    "工具/API接口/URL直接使用API汇总.md",
+    "工具/API接口/API接口.md",
+    "工具/API接口/URL直接使用API列表/URL直接使用API列表.md",
+    "工具/API接口/URL直接使用API列表/未命名.md",
+    "工具/API接口/URL直接使用API列表/随机图片.md",
+    "工具/好用的软件推荐/好用的软件推荐.md",
+    "工具/好用的软件推荐/好用的软件列表汇总.md",
+    "工具/好用的软件推荐/好用的软件列表/好用的软件列表.md",
+    "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/好用的浏览器扩展列表.md",
+    "工具/好用的浏览器扩展推荐/好用的浏览器扩展推荐.md",
+    "工具/工具.md",
     "使用的插件/使用的插件.md",
-    "任务/任务.md",
     "obsdian技巧学习/obsdian技巧学习.md",
-    "读书/读书.md",
-    "游戏/游戏.md",
-    "日记/日记.md",
-    "电影/电影.md",
+    "obsdian技巧学习/插件学习/插件学习.md",
+    "obsdian技巧学习/插件学习/DataView/DataView.md",
+    "obsdian技巧学习/插件学习/DataView/未命名 1.md",
+    "obsdian技巧学习/插件学习/DataView/未命名.md",
+    "obsdian技巧学习/插件学习/DataView/DataView学习.md",
+    "obsdian技巧学习/主页的设计编辑.md",
+    "任务/任务.md",
     "动漫/动漫.md",
-    "使用的插件/插件个人评级.md",
-    "使用的插件/插件列表/插件列表.md",
-    "使用的插件/插件列表/Auto Link Title---自动提取页面的标题.md",
-    "使用的插件/插件列表/Bartender---文件夹、文件 拖转.md",
-    "使用的插件/插件列表/插件列表list.md",
-    "使用的插件/插件列表/Auto Link Title---自动提取页面的标题 1.md",
-    "使用的插件/插件列表/Editing Toolbar---页面顶部编辑栏.md",
-    "使用的插件/插件列表/File Explorer Note Count---增加文件数量统计功能.md",
-    "使用的插件/插件列表/Link Favicons.md",
-    "使用的插件/插件列表/lconize.md",
-    "使用的插件/插件列表/Hover Editor.md",
-    "使用的插件/插件列表/Homepage.md",
-    "使用的插件/插件列表/Highlightr.md",
-    "使用的插件/插件列表/Hider.md",
-    "使用的插件/插件列表/Global Proxy.md",
-    "使用的插件/插件列表/Full Calendar.md",
-    "使用的插件/插件列表/Folder Note.md",
-    "使用的插件/插件列表/Floating TOC---悬浮式目录.md",
+    "Code/Code.md",
+    "Code/Vue/问题笔记/问题笔记.md",
+    "Code/Vue/问题笔记/未命名.md",
+    "templates/未命名",
     "attachments/%E5%B7%A5%E5%85%B7 2.png",
     "attachments/%E5%B7%A5%E5%85%B7.png",
     "ObsidianNote.zip",
@@ -236,7 +238,6 @@
     "Code/Vue/课程笔记/Vue2",
     "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表",
     "工具/好用的软件推荐/好用的软件列表",
-    "工具/API接口/URL直接使用API列表",
     "未命名.canvas"
   ]
 }

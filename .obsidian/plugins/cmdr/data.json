@@ -16,7 +16,14 @@
       "mode": "any"
     }
   ],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "workspace:copy-path",
+      "icon": "lucide-copy",
+      "name": "复制当前文件的路径",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],

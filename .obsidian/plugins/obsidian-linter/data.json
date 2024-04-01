@@ -41,7 +41,7 @@
     },
     "remove-yaml-keys": {
       "enabled": true,
-      "yaml-keys-to-remove": "created\nupdated"
+      "yaml-keys-to-remove": "created\nupdated\ndate created\ndate modified"
     },
     "sort-yaml-array-values": {
       "enabled": false,
@@ -60,10 +60,10 @@
     "yaml-timestamp": {
       "enabled": true,
       "date-created": true,
-      "date-created-key": "date created",
+      "date-created-key": "date_created",
       "force-retention-of-create-value": false,
       "date-modified": true,
-      "date-modified-key": "date modified",
+      "date-modified-key": "date_modified",
       "format": "YYYY-MM-Do dddd , hh:mm:ss a"
     },
     "yaml-title": {

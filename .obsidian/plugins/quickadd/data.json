@@ -27,6 +27,36 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "446f375e-3c7c-4a38-b442-5d5daf15956a",
+      "name": "add_browser_plugin",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templates/add_browser_plugin.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:请输入浏览器插件名称}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],
