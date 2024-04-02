@@ -29,7 +29,8 @@
       "工具",
       "求职",
       "templates",
-      "Excalidraw"
+      "Excalidraw",
+      "HTML import"
     ],
     "Notion/Code": [
       "Notion/Code/Vue",
@@ -41,15 +42,22 @@
       "Notion/Code/Node.js"
     ],
     "Code": [
-      "Code/Vue",
       "Code/JavaScript",
+      "Code/Vue",
+      "Code/微信小程序",
       "Code/CSS",
       "Code/HTML",
       "Code/uni-app",
-      "Code/微信小程序",
+      "Code/Node.js",
       "Code/构建工具",
-      "Code/Code.md",
-      "Code/Node.js"
+      "Code/Code.md"
+    ],
+    "Code/Vue": [
+      "Code/Vue/课程笔记",
+      "Code/Vue/问题笔记",
+      "Code/Vue/Note for Vue",
+      "Code/Vue/插件-库",
+      "Code/Vue/Vue.md"
     ]
   },
   "actionBarOrder": {},

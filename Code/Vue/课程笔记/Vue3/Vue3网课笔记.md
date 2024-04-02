@@ -35,6 +35,7 @@ updated: 2024-03-31  17:38:51
 
 ### 3.reactive() 和 ref()
 
+![[Pasted image 20240402100641.png]]
   
 
 ![[attachments/Untitled 5 7.png|Untitled 5 7.png]]
@@ -69,7 +70,11 @@ updated: 2024-03-31  17:38:51
 
 ![[attachments/Untitled 12 6.png|Untitled 12 6.png]]
 
-  
+
+### watchEffect
+
+![[Pasted image 20240402102202.png]]
+
 
 ### 5.ref获取DOM和vue组件
 

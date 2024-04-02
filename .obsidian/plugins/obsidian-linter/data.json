@@ -258,7 +258,7 @@
       "enabled": false
     }
   },
-  "lintOnSave": true,
+  "lintOnSave": false,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "lintOnFileChange": false,
@@ -269,7 +269,12 @@
   ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
-  "lintCommands": [],
+  "lintCommands": [
+    {
+      "id": "",
+      "name": ""
+    }
+  ],
   "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "single-line",

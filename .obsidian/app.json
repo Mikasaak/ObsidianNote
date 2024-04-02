@@ -8,5 +8,6 @@
     "_index.*",
     "/_index_of_.*/"
   ],
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "readableLineLength": false
 }

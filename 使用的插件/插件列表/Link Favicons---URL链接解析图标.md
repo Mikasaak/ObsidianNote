@@ -1,0 +1,1 @@
+## Link Favicons---URL链接解析图标

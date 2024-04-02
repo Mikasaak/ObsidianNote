@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73c553db961e4dbc",
+        "id": "e64a723b2691adc2",
         "type": "tabs",
         "children": [
           {
-            "id": "fec76d76be1399f1",
+            "id": "585dfad495235dad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md",
+                "file": "Code/Vue/资料/Vue3快速上手.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,12 +110,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md"
+                "file": "Code/Vue/资料/Vue3快速上手.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c5442c260e910343",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md",
+                "file": "Code/Vue/资料/Vue3快速上手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md",
+                "file": "Code/Vue/资料/Vue3快速上手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,54 +189,54 @@
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "fec76d76be1399f1",
+  "active": "585dfad495235dad",
   "lastOpenFiles": [
-    "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/AdBlock — 最佳广告拦截工具.md",
-    "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总.md",
-    "工具/API接口/URL直接使用API汇总.md",
-    "工具/API接口/API接口.md",
-    "工具/API接口/URL直接使用API列表/URL直接使用API列表.md",
-    "工具/API接口/URL直接使用API列表/未命名.md",
-    "工具/API接口/URL直接使用API列表/随机图片.md",
-    "工具/好用的软件推荐/好用的软件推荐.md",
-    "工具/好用的软件推荐/好用的软件列表汇总.md",
-    "工具/好用的软件推荐/好用的软件列表/好用的软件列表.md",
-    "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表/好用的浏览器扩展列表.md",
-    "工具/好用的浏览器扩展推荐/好用的浏览器扩展推荐.md",
-    "工具/工具.md",
-    "使用的插件/使用的插件.md",
-    "obsdian技巧学习/obsdian技巧学习.md",
-    "obsdian技巧学习/插件学习/插件学习.md",
-    "obsdian技巧学习/插件学习/DataView/DataView.md",
-    "obsdian技巧学习/插件学习/DataView/未命名 1.md",
-    "obsdian技巧学习/插件学习/DataView/未命名.md",
-    "obsdian技巧学习/插件学习/DataView/DataView学习.md",
-    "obsdian技巧学习/主页的设计编辑.md",
-    "任务/任务.md",
-    "动漫/动漫.md",
+    "Code/Vue/资料/资料.md",
+    "Code/Vue/Note for Vue/Note for Vue.md",
+    "Code/Vue/资料/TypeScript 极速梳理.pdf",
+    "Code/Vue/资料/Vue3快速上手.md",
+    "attachments/1683166212929-6cc8b8b6-2c4a-4927-8226-65d1f1f4f337 1.gif",
     "Code/Code.md",
-    "Code/Vue/问题笔记/问题笔记.md",
-    "Code/Vue/问题笔记/未命名.md",
-    "templates/未命名",
-    "attachments/%E5%B7%A5%E5%85%B7 2.png",
-    "attachments/%E5%B7%A5%E5%85%B7.png",
-    "ObsidianNote.zip",
-    "attachments/Untitled 57 3.png",
-    "attachments/Untitled 57 4.png",
-    "attachments/Untitled 57.png",
-    "attachments/Untitled.png",
-    "attachments/Untitled 84.png",
-    "attachments/Untitled 50.png",
-    "attachments/Untitled 50 4.png",
-    "工具/API接口/网络请求API汇总",
-    "工具/API接口/网络请求API列表",
-    "Code/CSS/CSS笔记",
-    "attachments/Untitled 10 8.png",
-    "Code/Vue/课程笔记/Vue其他",
-    "Code/Vue/课程笔记/Vue3",
-    "Code/Vue/课程笔记/Vue2",
-    "工具/好用的浏览器扩展推荐/好用的浏览器扩展列表",
-    "工具/好用的软件推荐/好用的软件列表",
+    "attachments/attachments.md",
+    "attachments/自动补充value.png",
+    "attachments/pinia_example 1.gif",
+    "attachments/volar 1.png",
+    "attachments/image-20231218085906380 1.png",
+    "attachments/image-20231119185900990 1.png",
+    "attachments/image-20231018144351536 1.png",
+    "attachments/count 1.png",
+    "attachments/computed 1.gif",
+    "attachments/1696662249851-db6403a1-acb5-481a-88e0-e1e34d2ef53a 1.gif",
+    "Code/Vue/资料/images",
+    "Code/Vue/资料",
+    "日记/日记.md",
+    "资料/资料.md",
+    "资料/Vue3快速上手.md",
+    "资料/TypeScript 极速梳理.pdf",
+    "Code/Vue/课程笔记/Vue2/Vue2网课笔记.md",
+    "Code/HTML/HTML.md",
+    "资料/images",
+    "资料",
+    "Code/uni-app/uni-app.md",
+    "求职/面试/面试.md",
+    "templates/zoottel_template注意事项.md",
+    "templates/zoottel_template.md",
+    "templates/add_browser_plugin.md",
+    "求职/面试/JS相关/JS相关.md",
+    "求职/面试/CSS相关/CSS相关.md",
+    "PDF/Vue.js设计与实现 (霍春阳) (Z-Library).pdf",
+    "PDF/02-JavaScript高级程序设计第4版.pdf",
+    "ObsidianNote.md",
+    "attachments/TypeScript ╝½╦┘╩ß└φ 2.pdf",
+    "求职/笔试/笔试题目.md",
+    "attachments/Vue3┐∞╦┘╔╧╩╓.md",
+    "attachments/TypeScript ╝½╦┘╩ß└φ.pdf",
+    "求职/面试/事件循环.md",
+    "求职/面试/浏览器渲染原理.md",
+    "求职/笔试/笔试.md",
+    "求职/求职.md",
+    "Excalidraw/Excalidraw.md",
+    "Code/Vue/Note for Vue/Vue3 中各种 ref.md",
     "未命名.canvas"
   ]
 }

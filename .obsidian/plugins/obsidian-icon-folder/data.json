@@ -6,6 +6,8 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "MyMianshiC",
+      "MyBishiC",
       "MyTemplate3",
       "MyReading",
       "MyList1)",
@@ -28,9 +30,7 @@
       "MyCalendar",
       "My052Task",
       "MyTask",
-      "MyAnime(1)",
-      "MyGame3)",
-      "MyMovie"
+      "MyAnime(1)"
     ],
     "recentlyUsedIconsSize": 25,
     "rules": [],
@@ -84,5 +84,7 @@
   "工具/API接口": "MyAPI2",
   "求职": "MyQiuzhiC",
   "读书": "MyReading",
-  "templates": "MyTemplate3"
+  "templates": "MyTemplate3",
+  "求职/笔试": "MyBishiC",
+  "求职/面试": "MyMianshiC"
 }
