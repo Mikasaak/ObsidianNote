@@ -1,8 +1,6 @@
 ---
 title: obsdian技巧学习
 tags: MOC
-date created: 2024-03-31日 星期日 , 8:01:16 晚上
-date modified: 2024-03-31日 星期日 , 9:20:16 晚上
 ---
 # obsdian技巧学习
 
@@ -50,5 +48,3 @@ type: folder_brief_live
 
 
 
-
-[[zoottel_template注意事项]]

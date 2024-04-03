@@ -47,5 +47,3 @@ type: folder_brief_live
 
 
 
-
-[[zoottel_template注意事项]]

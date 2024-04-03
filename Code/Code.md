@@ -1,8 +1,6 @@
 ---
 title: Code
 tags: MOC
-created: 2024-03-31  20:03:36
-updated: 2024-03-31  20:44:19
 ---
 # Code
 
@@ -56,5 +54,3 @@ type: folder_brief_live
 
 
 
-
-[[zoottel_template注意事项]]

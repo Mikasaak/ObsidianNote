@@ -1,8 +1,6 @@
 ---
 title: CSS
 tags: MOC
-date created: 2024-03-31日 星期日 , 08:44:54 晚上
-date modified: 2024-03-31日 星期日 , 10:06:44 晚上
 ---
 # CSS
 
@@ -52,5 +50,3 @@ type: folder_brief_live
 
 
 
-
-[[zoottel_template注意事项]]

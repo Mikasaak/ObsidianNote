@@ -1,8 +1,6 @@
 ---
 title: HTML
 tags: MOC
-created: 2024-03-31  20:03:56
-updated: 2024-03-31  20:03:56
 ---
 # HTML
 
@@ -49,5 +47,3 @@ type: folder_brief_live
 
 
 
-
-[[zoottel_template注意事项]]

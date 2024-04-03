@@ -35,6 +35,22 @@ updated: 2024-03-31  17:38:51
 
 ### 3.reactive() 和 ref()
 
+
+> [!note]  关于    [[ref和reactive]]
+> 在响应式对象中读取ref数据可以无需添加*.value*
+> 例如：
+> ```js
+> const obj = reactive({
+> 	a:  1,
+> 	b:  2,
+> 	c:  ref(8)
+> })
+> console.log(obj.c)//无需  .value
+> ```
+> 
+
+
+
 ![[Pasted image 20240402100641.png]]
   
 

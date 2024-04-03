@@ -24,7 +24,15 @@
       "mode": "any"
     }
   ],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "app:reload",
+      "icon": "lucide-rotate-ccw",
+      "name": "重新加载 Obsidian（不保存当前编辑内容）",
+      "mode": "a0b27e352161f7b8",
+      "color": "#2c8ed8"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -33,7 +41,12 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "File Tree Alternative Plugin",
+      "Open homepage",
+      "打开命令面板",
+      "Remotely Save"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {

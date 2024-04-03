@@ -1,160 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Vue3快速上手",
-      "path": "Code/Vue/资料/Vue3快速上手.md"
+      "basename": "黑马课程",
+      "path": "Code/微信小程序/课程笔记/黑马课程.md"
     },
     {
-      "basename": "资料",
-      "path": "Code/Vue/资料/资料.md"
+      "basename": "课程笔记",
+      "path": "Code/微信小程序/课程笔记/课程笔记.md"
     },
     {
-      "basename": "Note for Vue",
-      "path": "Code/Vue/Note for Vue/Note for Vue.md"
+      "basename": "微信小程序",
+      "path": "Code/微信小程序/微信小程序.md"
     },
     {
-      "basename": "TypeScript 极速梳理",
-      "path": "Code/Vue/资料/TypeScript 极速梳理.pdf"
-    },
-    {
-      "basename": "1683166212929-6cc8b8b6-2c4a-4927-8226-65d1f1f4f337 1",
-      "path": "attachments/1683166212929-6cc8b8b6-2c4a-4927-8226-65d1f1f4f337 1.gif"
-    },
-    {
-      "basename": "Code",
-      "path": "Code/Code.md"
-    },
-    {
-      "basename": "attachments",
-      "path": "attachments/attachments.md"
-    },
-    {
-      "basename": "日记",
-      "path": "日记/日记.md"
-    },
-    {
-      "basename": "Pasted image 20240402102202",
-      "path": "attachments/Pasted image 20240402102202.png"
-    },
-    {
-      "basename": "explained 2",
-      "path": "attachments/explained 2.png"
-    },
-    {
-      "basename": "css",
-      "path": "attachments/css.png"
-    },
-    {
-      "basename": "count",
-      "path": "attachments/count.png"
-    },
-    {
-      "basename": "Vue2网课笔记",
-      "path": "Code/Vue/课程笔记/Vue2/Vue2网课笔记.md"
-    },
-    {
-      "basename": "HTML",
-      "path": "Code/HTML/HTML.md"
-    },
-    {
-      "basename": "uni-app",
-      "path": "Code/uni-app/uni-app.md"
-    },
-    {
-      "basename": "面试",
-      "path": "求职/面试/面试.md"
-    },
-    {
-      "basename": "zoottel_template注意事项",
-      "path": "templates/zoottel_template注意事项.md"
-    },
-    {
-      "basename": "zoottel_template",
-      "path": "templates/zoottel_template.md"
-    },
-    {
-      "basename": "add_browser_plugin",
-      "path": "templates/add_browser_plugin.md"
-    },
-    {
-      "basename": "JS相关",
-      "path": "求职/面试/JS相关/JS相关.md"
-    },
-    {
-      "basename": "CSS相关",
-      "path": "求职/面试/CSS相关/CSS相关.md"
-    },
-    {
-      "basename": "Vue.js设计与实现 (霍春阳) (Z-Library)",
-      "path": "PDF/Vue.js设计与实现 (霍春阳) (Z-Library).pdf"
-    },
-    {
-      "basename": "02-JavaScript高级程序设计第4版",
-      "path": "PDF/02-JavaScript高级程序设计第4版.pdf"
-    },
-    {
-      "basename": "ObsidianNote",
-      "path": "ObsidianNote.md"
+      "basename": "JS小问题笔记",
+      "path": "Code/JavaScript/JS小问题笔记.md"
     },
     {
       "basename": "笔试题目",
       "path": "求职/笔试/笔试题目.md"
     },
     {
-      "basename": "事件循环",
-      "path": "求职/面试/事件循环.md"
+      "basename": "面试",
+      "path": "求职/面试/面试.md"
     },
     {
-      "basename": "浏览器渲染原理",
-      "path": "求职/面试/浏览器渲染原理.md"
+      "basename": "JS面试重点",
+      "path": "求职/面试/JS相关/JS面试重点.md"
     },
     {
-      "basename": "笔试",
-      "path": "求职/笔试/笔试.md"
-    },
-    {
-      "basename": "求职",
-      "path": "求职/求职.md"
-    },
-    {
-      "basename": "Excalidraw",
-      "path": "Excalidraw/Excalidraw.md"
-    },
-    {
-      "basename": "Vue3 中各种 ref",
-      "path": "Code/Vue/Note for Vue/Vue3 中各种 ref.md"
-    },
-    {
-      "basename": "ref和reactive",
-      "path": "Code/Vue/Note for Vue/ref和reactive.md"
-    },
-    {
-      "basename": "Vue其他笔记",
-      "path": "Code/Vue/课程笔记/Vue其他/Vue其他笔记.md"
-    },
-    {
-      "basename": "Vue3网课笔记",
-      "path": "Code/Vue/课程笔记/Vue3/Vue3网课笔记.md"
-    },
-    {
-      "basename": "Vue其他",
-      "path": "Code/Vue/课程笔记/Vue其他/Vue其他.md"
-    },
-    {
-      "basename": "Vue2",
-      "path": "Code/Vue/课程笔记/Vue2/Vue2.md"
+      "basename": "JS相关",
+      "path": "求职/面试/JS相关/JS相关.md"
     },
     {
       "basename": "TypeScript是什么 及 与 JavaScript 的区别？",
       "path": "Code/JavaScript/TypeScript是什么 及 与 JavaScript 的区别？.md"
-    },
-    {
-      "basename": "Vue3",
-      "path": "Code/Vue/课程笔记/Vue3/Vue3.md"
-    },
-    {
-      "basename": "课程笔记",
-      "path": "Code/Vue/课程笔记/课程笔记.md"
     },
     {
       "basename": "关于Ts与Js效率问题的疑惑",
@@ -165,40 +45,160 @@
       "path": "Code/JavaScript/JavaScript.md"
     },
     {
-      "basename": "问题笔记",
-      "path": "Code/Vue/问题笔记/问题笔记.md"
+      "basename": "笔试",
+      "path": "求职/笔试/笔试.md"
     },
     {
-      "basename": "Vue",
-      "path": "Code/Vue/Vue.md"
+      "basename": "Code",
+      "path": "Code/Code.md"
+    },
+    {
+      "basename": "求职",
+      "path": "求职/求职.md"
     },
     {
       "basename": "使用的插件",
       "path": "使用的插件/使用的插件.md"
     },
     {
+      "basename": "Vue",
+      "path": "Code/Vue/Vue.md"
+    },
+    {
+      "basename": "Vue3网课笔记",
+      "path": "Code/Vue/课程笔记/Vue3/Vue3网课笔记.md"
+    },
+    {
+      "basename": "ref和reactive",
+      "path": "Code/Vue/Note for Vue/ref和reactive.md"
+    },
+    {
+      "basename": "Vue3",
+      "path": "Code/Vue/课程笔记/Vue3/Vue3.md"
+    },
+    {
+      "basename": "Vue2",
+      "path": "Code/Vue/课程笔记/Vue2/Vue2.md"
+    },
+    {
+      "basename": "课程笔记",
+      "path": "Code/Vue/课程笔记/课程笔记.md"
+    },
+    {
+      "basename": "Note for Vue",
+      "path": "Code/Vue/Note for Vue/Note for Vue.md"
+    },
+    {
+      "basename": "Vue3 中各种 ref",
+      "path": "Code/Vue/Note for Vue/Vue3 中各种 ref.md"
+    },
+    {
+      "basename": "问题笔记",
+      "path": "Code/Vue/问题笔记/问题笔记.md"
+    },
+    {
+      "basename": "Vue3快速上手",
+      "path": "Code/Vue/资料/Vue3快速上手.md"
+    },
+    {
+      "basename": "资料",
+      "path": "Code/Vue/资料/资料.md"
+    },
+    {
+      "basename": "ObsidianNote",
+      "path": "ObsidianNote.md"
+    },
+    {
+      "basename": "CSS相关",
+      "path": "求职/面试/CSS相关/CSS相关.md"
+    },
+    {
+      "basename": "CSS 面试重点",
+      "path": "求职/面试/CSS相关/CSS 面试重点.md"
+    },
+    {
+      "basename": "区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48)",
+      "path": "Code/CSS/CSS笔记/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md"
+    },
+    {
+      "basename": "CSS笔记",
+      "path": "Code/CSS/CSS笔记/CSS笔记.md"
+    },
+    {
+      "basename": "API接口",
+      "path": "工具/API接口/API接口.md"
+    },
+    {
+      "basename": "URL直接使用API汇总",
+      "path": "工具/API接口/URL直接使用API汇总.md"
+    },
+    {
+      "basename": "工具",
+      "path": "工具/工具.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "Code/CSS/CSS.md"
+    },
+    {
+      "basename": "02-JavaScript高级程序设计第4版",
+      "path": "PDF/02-JavaScript高级程序设计第4版.pdf"
+    },
+    {
+      "basename": "Vue.js设计与实现 (霍春阳) (Z-Library)",
+      "path": "PDF/Vue.js设计与实现 (霍春阳) (Z-Library).pdf"
+    },
+    {
+      "basename": "Excalidraw",
+      "path": "Excalidraw/Excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-03-29 15.58.35.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-29 15.58.35.excalidraw.md"
+    },
+    {
+      "basename": "Vue其他",
+      "path": "Code/Vue/课程笔记/Vue其他/Vue其他.md"
+    },
+    {
+      "basename": "好用的浏览器插件汇总-dataview",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总-dataview.md"
+    },
+    {
+      "basename": "构建工具",
+      "path": "Code/构建工具/构建工具.md"
+    },
+    {
+      "basename": "uni-app",
+      "path": "Code/uni-app/uni-app.md"
+    },
+    {
+      "basename": "HTML",
+      "path": "Code/HTML/HTML.md"
+    },
+    {
+      "basename": "插件-库",
+      "path": "Code/Vue/插件-库/插件-库.md"
+    },
+    {
+      "basename": "遇到的问题",
+      "path": "Code/Vue/问题笔记/遇到的问题.md"
+    },
+    {
+      "basename": "Vue2网课笔记",
+      "path": "Code/Vue/课程笔记/Vue2/Vue2网课笔记.md"
+    },
+    {
       "basename": "插件列表",
       "path": "使用的插件/插件列表/插件列表.md"
     },
     {
-      "basename": "Clear Unused Images---快速删除无用的图片",
-      "path": "使用的插件/插件列表/Clear Unused Images---快速删除无用的图片.md"
+      "basename": "插件个人评级",
+      "path": "使用的插件/插件个人评级.md"
     },
     {
-      "basename": "Calender---日历插件",
-      "path": "使用的插件/插件列表/Calender---日历插件.md"
-    },
-    {
-      "basename": "BRAT---测试版软件、主题下载插件",
-      "path": "使用的插件/插件列表/BRAT---测试版软件、主题下载插件.md"
-    },
-    {
-      "basename": "Bartender---文件夹、文件 拖转",
-      "path": "使用的插件/插件列表/Bartender---文件夹、文件 拖转.md"
-    },
-    {
-      "basename": "Auto Link Title---自动提取页面的标题",
-      "path": "使用的插件/插件列表/Auto Link Title---自动提取页面的标题.md"
+      "basename": "主页的设计编辑",
+      "path": "obsdian技巧学习/主页的设计编辑.md"
     }
   ],
   "omittedPaths": [],
