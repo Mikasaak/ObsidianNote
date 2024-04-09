@@ -1,3 +1,7 @@
+---
+created: 2024-04-05  00:25:57
+updated: 2024-04-05  00:16:56
+---
 ## Folder Note---*文件夹笔记化*
 [Obsidian 插件：Folder Note](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/folder-note-plugin/)
 [Getting started - Obsidian folder notes](https://lostpaul.github.io/obsidian-folder-notes/Getting%20started/)

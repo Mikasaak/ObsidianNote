@@ -1,3 +1,7 @@
+---
+created: 2024-04-05  00:26:00
+updated: 2024-04-05  00:16:58
+---
 ## Hider---*自定义隐藏界面元素*
 
 [Obsidian 插件：Hider 自定义隐藏界面元素、信息](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/obsidian-hider/)

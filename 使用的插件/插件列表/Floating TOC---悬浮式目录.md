@@ -1,3 +1,7 @@
+---
+created: 2024-04-05  00:25:57
+updated: 2024-04-05  00:16:56
+---
 ## Floating TOC---*悬浮式目录*
 [Obsidian 插件：Floating TOC 为你添加悬浮的笔记目录](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/floating-toc/)
 [GitHub - PKM-er/obsidian-floating-toc-plugin](https://github.com/PKM-er/obsidian-floating-toc-plugin)

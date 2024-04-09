@@ -1,6 +1,8 @@
 ---
 title: Tailwind CSS
 tags: MOC
+created: 2024-04-05  00:25:49
+updated: 2024-04-05  00:16:43
 ---
 # Tailwind CSS
 

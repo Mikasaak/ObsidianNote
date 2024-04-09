@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "黑马课程",
-      "path": "Code/微信小程序/课程笔记/黑马课程.md"
+      "basename": "diff",
+      "path": "Code/Vue/Note for Vue/diff.md"
     },
     {
-      "basename": "课程笔记",
-      "path": "Code/微信小程序/课程笔记/课程笔记.md"
+      "basename": "Diff算法",
+      "path": "Code/Vue/Note for Vue/Diff算法.md"
     },
     {
-      "basename": "微信小程序",
-      "path": "Code/微信小程序/微信小程序.md"
+      "basename": "diff流程图",
+      "path": "Code/Vue/Note for Vue/diff流程图.md"
     },
     {
-      "basename": "JS小问题笔记",
-      "path": "Code/JavaScript/JS小问题笔记.md"
-    },
-    {
-      "basename": "笔试题目",
-      "path": "求职/笔试/笔试题目.md"
-    },
-    {
-      "basename": "面试",
-      "path": "求职/面试/面试.md"
-    },
-    {
-      "basename": "JS面试重点",
-      "path": "求职/面试/JS相关/JS面试重点.md"
-    },
-    {
-      "basename": "JS相关",
-      "path": "求职/面试/JS相关/JS相关.md"
-    },
-    {
-      "basename": "TypeScript是什么 及 与 JavaScript 的区别？",
-      "path": "Code/JavaScript/TypeScript是什么 及 与 JavaScript 的区别？.md"
-    },
-    {
-      "basename": "关于Ts与Js效率问题的疑惑",
-      "path": "Code/JavaScript/关于Ts与Js效率问题的疑惑.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "Code/JavaScript/JavaScript.md"
-    },
-    {
-      "basename": "笔试",
-      "path": "求职/笔试/笔试.md"
-    },
-    {
-      "basename": "Code",
-      "path": "Code/Code.md"
-    },
-    {
-      "basename": "求职",
-      "path": "求职/求职.md"
-    },
-    {
-      "basename": "使用的插件",
-      "path": "使用的插件/使用的插件.md"
-    },
-    {
-      "basename": "Vue",
-      "path": "Code/Vue/Vue.md"
-    },
-    {
-      "basename": "Vue3网课笔记",
-      "path": "Code/Vue/课程笔记/Vue3/Vue3网课笔记.md"
-    },
-    {
-      "basename": "ref和reactive",
-      "path": "Code/Vue/Note for Vue/ref和reactive.md"
-    },
-    {
-      "basename": "Vue3",
-      "path": "Code/Vue/课程笔记/Vue3/Vue3.md"
-    },
-    {
-      "basename": "Vue2",
-      "path": "Code/Vue/课程笔记/Vue2/Vue2.md"
-    },
-    {
-      "basename": "课程笔记",
-      "path": "Code/Vue/课程笔记/课程笔记.md"
-    },
-    {
-      "basename": "Note for Vue",
-      "path": "Code/Vue/Note for Vue/Note for Vue.md"
-    },
-    {
-      "basename": "Vue3 中各种 ref",
-      "path": "Code/Vue/Note for Vue/Vue3 中各种 ref.md"
-    },
-    {
-      "basename": "问题笔记",
-      "path": "Code/Vue/问题笔记/问题笔记.md"
-    },
-    {
-      "basename": "Vue3快速上手",
-      "path": "Code/Vue/资料/Vue3快速上手.md"
-    },
-    {
-      "basename": "资料",
-      "path": "Code/Vue/资料/资料.md"
-    },
-    {
-      "basename": "ObsidianNote",
-      "path": "ObsidianNote.md"
-    },
-    {
-      "basename": "CSS相关",
-      "path": "求职/面试/CSS相关/CSS相关.md"
-    },
-    {
-      "basename": "CSS 面试重点",
-      "path": "求职/面试/CSS相关/CSS 面试重点.md"
-    },
-    {
-      "basename": "区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48)",
-      "path": "Code/CSS/CSS笔记/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md"
-    },
-    {
-      "basename": "CSS笔记",
-      "path": "Code/CSS/CSS笔记/CSS笔记.md"
-    },
-    {
-      "basename": "API接口",
-      "path": "工具/API接口/API接口.md"
-    },
-    {
-      "basename": "URL直接使用API汇总",
-      "path": "工具/API接口/URL直接使用API汇总.md"
-    },
-    {
-      "basename": "工具",
-      "path": "工具/工具.md"
-    },
-    {
-      "basename": "CSS",
-      "path": "Code/CSS/CSS.md"
-    },
-    {
-      "basename": "02-JavaScript高级程序设计第4版",
-      "path": "PDF/02-JavaScript高级程序设计第4版.pdf"
-    },
-    {
-      "basename": "Vue.js设计与实现 (霍春阳) (Z-Library)",
-      "path": "PDF/Vue.js设计与实现 (霍春阳) (Z-Library).pdf"
+      "basename": "Drawing 2024-04-08 10.34.09.excalidraw",
+      "path": "Excalidraw/Drawing 2024-04-08 10.34.09.excalidraw.md"
     },
     {
       "basename": "Excalidraw",
       "path": "Excalidraw/Excalidraw.md"
     },
     {
+      "basename": "课程笔记",
+      "path": "Code/Vue/课程笔记/课程笔记.md"
+    },
+    {
+      "basename": "面试官：你了解vue的diff算法吗？说说看",
+      "path": "Code/Vue/Note for Vue/面试官：你了解vue的diff算法吗？说说看.md"
+    },
+    {
       "basename": "Drawing 2024-03-29 15.58.35.excalidraw",
       "path": "Excalidraw/Drawing 2024-03-29 15.58.35.excalidraw.md"
     },
     {
-      "basename": "Vue其他",
-      "path": "Code/Vue/课程笔记/Vue其他/Vue其他.md"
+      "basename": "CSDN：vue 虚拟dom和diff算法详解",
+      "path": "Code/Vue/Note for Vue/CSDN：vue 虚拟dom和diff算法详解.md"
     },
     {
-      "basename": "好用的浏览器插件汇总-dataview",
-      "path": "工具/好用的浏览器扩展推荐/好用的浏览器插件汇总-dataview.md"
-    },
-    {
-      "basename": "构建工具",
-      "path": "Code/构建工具/构建工具.md"
-    },
-    {
-      "basename": "uni-app",
-      "path": "Code/uni-app/uni-app.md"
-    },
-    {
-      "basename": "HTML",
-      "path": "Code/HTML/HTML.md"
-    },
-    {
-      "basename": "插件-库",
-      "path": "Code/Vue/插件-库/插件-库.md"
+      "basename": "Note for Vue",
+      "path": "Code/Vue/Note for Vue/Note for Vue.md"
     },
     {
       "basename": "遇到的问题",
       "path": "Code/Vue/问题笔记/遇到的问题.md"
     },
     {
-      "basename": "Vue2网课笔记",
-      "path": "Code/Vue/课程笔记/Vue2/Vue2网课笔记.md"
+      "basename": "问题笔记",
+      "path": "Code/Vue/问题笔记/问题笔记.md"
     },
     {
-      "basename": "插件列表",
-      "path": "使用的插件/插件列表/插件列表.md"
+      "basename": "VueUse",
+      "path": "Code/Vue/插件-库/VueUse.md"
     },
     {
-      "basename": "插件个人评级",
-      "path": "使用的插件/插件个人评级.md"
+      "basename": "Vue3 中各种 ref",
+      "path": "Code/Vue/Note for Vue/Vue3 中各种 ref.md"
     },
     {
-      "basename": "主页的设计编辑",
-      "path": "obsdian技巧学习/主页的设计编辑.md"
+      "basename": "ref和reactive",
+      "path": "Code/Vue/Note for Vue/ref和reactive.md"
+    },
+    {
+      "basename": "插件-库",
+      "path": "Code/Vue/插件-库/插件-库.md"
+    },
+    {
+      "basename": "uni-app",
+      "path": "Code/uni-app/uni-app.md"
+    },
+    {
+      "basename": "Drawing 2024-03-26 14.55.40.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-26 14.55.40.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-03-27 22.16.34.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-27 22.16.34.excalidraw.md"
+    },
+    {
+      "basename": "Vue3",
+      "path": "attachments/Vue3.md"
+    },
+    {
+      "basename": "CSS新特性",
+      "path": "Code/CSS/CSS笔记/CSS新特性.md"
+    },
+    {
+      "basename": "CSS3新特性（详细版）",
+      "path": "Code/CSS/CSS笔记/CSS3新特性（详细版）.md"
+    },
+    {
+      "basename": "CSS 置换元素（替换元素）",
+      "path": "Code/CSS/CSS笔记/CSS 置换元素（替换元素）.md"
+    },
+    {
+      "basename": "CSS 属性计算过程",
+      "path": "Code/CSS/CSS笔记/CSS 属性计算过程.md"
+    },
+    {
+      "basename": "CSS笔记",
+      "path": "Code/CSS/CSS笔记/CSS笔记.md"
+    },
+    {
+      "basename": "HTML笔记",
+      "path": "Code/HTML/HTML笔记/HTML笔记.md"
+    },
+    {
+      "basename": "margin负值",
+      "path": "Code/CSS/CSS笔记/margin负值.md"
+    },
+    {
+      "basename": "浏览器渲染模式",
+      "path": "Code/CSS/CSS笔记/浏览器渲染模式.md"
+    },
+    {
+      "basename": "CSS规范",
+      "path": "Code/CSS/CSS规范/CSS规范.md"
+    },
+    {
+      "basename": "你不知道的 CSS 之包含块",
+      "path": "Code/CSS/CSS笔记/你不知道的 CSS 之包含块.md"
+    },
+    {
+      "basename": "区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48)",
+      "path": "Code/CSS/CSS笔记/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md"
+    },
+    {
+      "basename": "CSS 盒模型的理解",
+      "path": "Code/CSS/CSS笔记/CSS 盒模型的理解.md"
+    },
+    {
+      "basename": "笔试",
+      "path": "求职/笔试/笔试.md"
+    },
+    {
+      "basename": "CSS高频面试题",
+      "path": "求职/面试/CSS相关/CSS高频面试题.md"
+    },
+    {
+      "basename": "CSS 面试重点",
+      "path": "求职/面试/CSS相关/CSS 面试重点.md"
+    },
+    {
+      "basename": "CSS相关",
+      "path": "求职/面试/CSS相关/CSS相关.md"
+    },
+    {
+      "basename": "attachments",
+      "path": "attachments/attachments.md"
+    },
+    {
+      "basename": "H5新特性",
+      "path": "Code/HTML/HTML笔记/H5新特性.md"
+    },
+    {
+      "basename": "HTML",
+      "path": "Code/HTML/HTML.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "Code/CSS/CSS.md"
+    },
+    {
+      "basename": "JS小问题笔记",
+      "path": "Code/JavaScript/JS小问题笔记.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Code/JavaScript/JavaScript.md"
+    },
+    {
+      "basename": "事件冒泡和事件捕获",
+      "path": "求职/面试/事件冒泡和事件捕获.md"
+    },
+    {
+      "basename": "浏览器渲染原理",
+      "path": "求职/面试/浏览器渲染原理.md"
+    },
+    {
+      "basename": "黑马课程",
+      "path": "Code/微信小程序/课程笔记/黑马课程.md"
+    },
+    {
+      "basename": "Vue其他",
+      "path": "Code/Vue/课程笔记/Vue其他/Vue其他.md"
+    },
+    {
+      "basename": "资料",
+      "path": "Code/Vue/资料/资料.md"
+    },
+    {
+      "basename": "Vue其他笔记",
+      "path": "Code/Vue/课程笔记/Vue其他/Vue其他笔记.md"
+    },
+    {
+      "basename": "Vue",
+      "path": "Code/Vue/Vue.md"
+    },
+    {
+      "basename": "微信小程序",
+      "path": "Code/微信小程序/微信小程序.md"
     }
   ],
   "omittedPaths": [],
