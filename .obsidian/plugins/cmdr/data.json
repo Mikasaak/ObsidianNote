@@ -22,6 +22,12 @@
       "icon": "lucide-copy",
       "name": "复制当前文件的路径",
       "mode": "any"
+    },
+    {
+      "id": "open-with-default-app:show",
+      "icon": "lucide-files",
+      "name": "在系统资源管理器中显示",
+      "mode": "any"
     }
   ],
   "leftRibbon": [

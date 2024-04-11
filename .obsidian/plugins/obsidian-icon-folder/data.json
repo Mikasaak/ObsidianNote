@@ -74,7 +74,6 @@
   "Code/CSS/Tailwind CSS": "MyTailwindcss2",
   "Code/构建工具/Vite": "MyVitejsC",
   "Code/构建工具/Webpack": "MyWebpackC",
-  "Code/Vue/问题笔记": "MyQuestion(1)",
   "Code/Vue/课程笔记": "My08Note",
   "Code/JavaScript": "MyJavaScript",
   "Code/HTML": "MyHtml",
@@ -86,5 +85,6 @@
   "读书": "MyReading",
   "templates": "MyTemplate3",
   "求职/笔试": "MyBishiC",
-  "求职/面试": "MyMianshiC"
+  "求职/面试": "MyMianshiC",
+  "Code/Vue/问题疑惑": "MyQuestion(1)"
 }

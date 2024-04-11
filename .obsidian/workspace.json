@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "46ca4e14ecea1dd6",
+        "id": "d36fd0f5baaa6d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e00cc019f5169f",
+            "id": "2e69c162983d1fdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Code/Vue/Note for Vue/diff.md",
-                "mode": "source",
-                "source": false
+                "file": "简历参考/【前端导师 _ 济南20-35K】王莹 7年.pdf"
+              }
+            }
+          },
+          {
+            "id": "6728f175e766fc3d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "我的简历/前端简历.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Vue/Note for Vue/diff.md"
+                "file": "我的简历/前端简历.pdf"
               }
             }
           }
@@ -138,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Vue/Note for Vue/diff.md",
+                "file": "我的简历/前端简历.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Vue/Note for Vue/diff.md",
+                "file": "我的简历/前端简历.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,36 +200,47 @@
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "68cd04d84cf17f60",
+  "active": "6728f175e766fc3d",
   "lastOpenFiles": [
-    "Code/Vue/Note for Vue/Diff算法.md",
-    "Code/Vue/Note for Vue/diff流程图.md",
-    "Excalidraw/Drawing 2024-04-08 10.34.09.excalidraw.md",
-    "Excalidraw/Excalidraw.md",
-    "Code/Vue/课程笔记/课程笔记.md",
-    "Code/Vue/Note for Vue/面试官：你了解vue的diff算法吗？说说看.md",
-    "Code/Vue/Note for Vue/diff.md",
-    "Excalidraw/Drawing 2024-03-29 15.58.35.excalidraw.md",
-    "Code/Vue/Note for Vue/CSDN：vue 虚拟dom和diff算法详解.md",
-    "Code/Vue/Note for Vue/Note for Vue.md",
-    "Code/Vue/问题笔记/遇到的问题.md",
-    "Code/Vue/问题笔记/问题笔记.md",
-    "Code/Vue/插件-库/VueUse.md",
-    "Code/Vue/Note for Vue/Vue3 中各种 ref.md",
-    "Code/Vue/Note for Vue/ref和reactive.md",
-    "Code/Vue/插件-库/插件-库.md",
+    "我的简历/简历.pdf",
+    "我的简历/前端简历.pdf",
+    "我的简历/前端简历 (2).pdf",
+    "我的简历/Jianliben_CV20240312402_2.pdf",
+    "我的简历/Jianliben_CV20240312402.pdf",
+    "我的简历",
+    "简历参考/【前端导师 _ 济南20-35K】王莹 7年.pdf",
+    "简历参考/【前端导师 _ 济南20-35K】王震 5年.pdf",
+    "简历参考/【前端导师 _ 济南20-35K】袭建壮 11年.pdf",
+    "简历参考/【前端导师 _ 济南20-35K】盖均辉 3年.pdf",
+    "简历参考/【前端导师 _ 济南20-35K】姚琳琳 6年.pdf",
+    "Code/CSS/重点笔记/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md",
+    "Code/CSS/重点笔记/包含块MDN文档.md",
+    "Code/CSS/重点笔记/CSS笔记.md",
+    "Code/CSS/重点笔记/CSS3新特性（详细版）.md",
+    "Code/CSS/重点笔记/CSS 置换元素（替换元素）.md",
+    "Code/CSS/重点笔记/CSS 之包含块.md",
+    "Code/CSS/重点笔记/CSS 属性计算过程.md",
+    "Code/CSS/重点笔记/CSS 盒模型的理解.md",
+    "Code/CSS/重点笔记/重点笔记.md",
+    "Code/CSS/重点笔记/CSS 的值和单位.md",
+    "Code/CSS/重点笔记/margin负值.md",
+    "Code/CSS/重点笔记/CSS中的%单位 以及 calc().md",
+    "Code/CSS/CSS.md",
+    "Code/JavaScript/JavaScript.md",
+    "Code/Code.md",
+    "Code/CSS/重点笔记/CSS新特性.md",
+    "Code/CSS/重点笔记/浏览器渲染模式.md",
     "Code/uni-app/uni-app.md",
-    "Excalidraw/Drawing 2024-03-26 14.55.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-27 22.16.34.excalidraw.md",
-    "attachments/Vue3.md",
+    "Code/JavaScript/重点笔记/重点笔记.md",
+    "Code/JavaScript/问题疑惑/问题疑惑.md",
+    "Code/JavaScript/JS小问题笔记.md",
+    "Code/Vue/Vue.md",
+    "Code/Vue/资料/资料.md",
+    "Code/Vue/问题疑惑/Vue问题疑惑.md",
+    "Code/Vue/问题疑惑/问题疑惑.md",
+    "attachments/Pasted image 20240410111856.png",
+    "attachments/Pasted image 20240410111716.png",
     "attachments/Pasted image 20240407172405.png",
-    "Code/CSS/CSS笔记/CSS新特性.md",
-    "Code/CSS/CSS笔记/CSS3新特性（详细版）.md",
-    "Code/CSS/CSS笔记/CSS 置换元素（替换元素）.md",
-    "Code/CSS/CSS笔记/CSS 属性计算过程.md",
-    "Code/CSS/CSS笔记/CSS笔记.md",
-    "Code/HTML/HTML笔记/HTML笔记.md",
-    "Code/HTML/HTML笔记",
     "attachments/volar.png",
     "attachments/Vue 2.png",
     "attachments/computed 1.gif",
@@ -228,17 +248,6 @@
     "attachments/╫╘╢»▓╣│Σvalue.png",
     "attachments/Pasted image 20240405164225.png",
     "attachments/Pasted image 20240403233904.png",
-    "attachments/Pasted image 20240403233847.png",
-    "attachments/Pasted image 20240403233738.png",
-    "Test",
-    "PDF/02-JavaScript高级程序设计第4版.pdf",
-    "PDF/Vue.js设计与实现 (霍春阳) (Z-Library).pdf",
-    "Code/Vue/资料/TypeScript 极速梳理.pdf",
-    "Code/Vue/资料/images",
-    "Code/Vue/资料",
-    "资料/TypeScript 极速梳理.pdf",
-    "资料/images",
-    "资料",
     "未命名.canvas"
   ]
 }
