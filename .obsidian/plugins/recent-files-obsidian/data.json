@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "游戏",
+      "path": "游戏/游戏.md"
+    },
+    {
+      "basename": "add_browser_plugin_template",
+      "path": "templates/add_browser_plugin_template.md"
+    },
+    {
+      "basename": "zoottel_template",
+      "path": "templates/zoottel_template.md"
+    },
+    {
+      "basename": "元素尺寸和位置",
+      "path": "Code/JavaScript/元素尺寸和位置.md"
+    },
+    {
+      "basename": "JS小问题笔记",
+      "path": "Code/JavaScript/JS小问题笔记.md"
+    },
+    {
+      "basename": "交叉观察器 API-MDN",
+      "path": "Code/JavaScript/交叉观察器 API-MDN.html"
+    },
+    {
+      "basename": "问题疑惑",
+      "path": "Code/JavaScript/问题疑惑/问题疑惑.md"
+    },
+    {
+      "basename": "鼠标事件",
+      "path": "Code/JavaScript/鼠标事件.md"
+    },
+    {
+      "basename": "Code",
+      "path": "Code/Code.md"
+    },
+    {
+      "basename": "插件学习",
+      "path": "obsdian技巧学习/插件学习/插件学习.md"
+    },
+    {
+      "basename": "obsdian技巧学习",
+      "path": "obsdian技巧学习/obsdian技巧学习.md"
+    },
+    {
+      "basename": "工具",
+      "path": "工具/工具.md"
+    },
+    {
+      "basename": "好用的浏览器扩展推荐",
+      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展推荐.md"
+    },
+    {
+      "basename": "读书",
+      "path": "读书/读书.md"
+    },
+    {
+      "basename": "电影",
+      "path": "电影/电影.md"
+    },
+    {
+      "basename": "动漫",
+      "path": "动漫/动漫.md"
+    },
+    {
+      "basename": "看过的动漫",
+      "path": "动漫/看过的动漫/看过的动漫.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "动漫/看过的动漫/未命名.md"
+    },
+    {
+      "basename": "任务",
+      "path": "任务/任务.md"
+    },
+    {
+      "basename": "崩坏：星穹铁道",
+      "path": "游戏/崩坏：星穹铁道/崩坏：星穹铁道.md"
+    },
+    {
+      "basename": "抽卡规划",
+      "path": "游戏/崩坏：星穹铁道/抽卡规划.md"
+    },
+    {
       "basename": "何为跨域，以及其解决方法",
       "path": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md"
     },
@@ -21,10 +105,6 @@
       "path": "Excalidraw/Excalidraw.md"
     },
     {
-      "basename": "元素尺寸和位置",
-      "path": "Code/JavaScript/元素尺寸和位置.md"
-    },
-    {
       "basename": "网络请求相关",
       "path": "求职/面试/网络请求相关/网络请求相关.md"
     },
@@ -35,10 +115,6 @@
     {
       "basename": "求职",
       "path": "求职/求职.md"
-    },
-    {
-      "basename": "Code",
-      "path": "Code/Code.md"
     },
     {
       "basename": "跨域解决方案的选择.excalidraw",
@@ -123,82 +199,6 @@
     {
       "basename": "js排序sort函数",
       "path": "求职/面试/JS相关/js排序sort函数.md"
-    },
-    {
-      "basename": "JS、深入理解事件循环,这一篇就够了!(必看)",
-      "path": "求职/面试/JS相关/JS、深入理解事件循环,这一篇就够了!(必看).md"
-    },
-    {
-      "basename": "JS相关",
-      "path": "求职/面试/JS相关/JS相关.md"
-    },
-    {
-      "basename": "Promise",
-      "path": "求职/面试/JS相关/Promise.md"
-    },
-    {
-      "basename": "Class",
-      "path": "求职/面试/JS相关/Class.md"
-    },
-    {
-      "basename": "深浅拷贝",
-      "path": "求职/面试/JS相关/深浅拷贝.md"
-    },
-    {
-      "basename": "事件循环",
-      "path": "求职/面试/JS相关/事件循环.md"
-    },
-    {
-      "basename": "交叉观察器 API-MDN",
-      "path": "Code/JavaScript/交叉观察器 API-MDN.html"
-    },
-    {
-      "basename": "JS小问题笔记",
-      "path": "Code/JavaScript/JS小问题笔记.md"
-    },
-    {
-      "basename": "Drawing 2024-04-08 10.34.09.excalidraw",
-      "path": "Excalidraw/Drawing 2024-04-08 10.34.09.excalidraw.md"
-    },
-    {
-      "basename": "问题疑惑",
-      "path": "Code/JavaScript/问题疑惑/问题疑惑.md"
-    },
-    {
-      "basename": "鼠标事件",
-      "path": "Code/JavaScript/鼠标事件.md"
-    },
-    {
-      "basename": "Vue-keep-alive",
-      "path": "求职/面试/Vue相关/Vue-keep-alive.md"
-    },
-    {
-      "basename": "Vue相关",
-      "path": "求职/面试/Vue相关/Vue相关.md"
-    },
-    {
-      "basename": "uni-app",
-      "path": "Code/uni-app/uni-app.md"
-    },
-    {
-      "basename": "问题疑惑",
-      "path": "Code/Vue/问题疑惑/问题疑惑.md"
-    },
-    {
-      "basename": "资料",
-      "path": "Code/Vue/资料/资料.md"
-    },
-    {
-      "basename": "Note for Vue",
-      "path": "Code/Vue/Note for Vue/Note for Vue.md"
-    },
-    {
-      "basename": "相关笔记",
-      "path": "Code/Vue/Note for Vue/相关笔记.md"
-    },
-    {
-      "basename": "Vue的Diff算法",
-      "path": "求职/面试/Vue相关/Vue的Diff算法/Vue的Diff算法.md"
     }
   ],
   "omittedPaths": [],

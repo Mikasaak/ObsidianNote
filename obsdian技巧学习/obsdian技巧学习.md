@@ -1,6 +1,9 @@
 ---
+description: 
 title: obsdian技巧学习
 tags: MOC
+date_created: 2024-04-2日 星期二 , 03:32:31 下午
+date_modified: 2024-04-22日 星期一 , 03:13:55 下午
 ---
 # obsdian技巧学习
 

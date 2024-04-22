@@ -1,6 +1,10 @@
 ---
+description: 
+pubDate:
+tags: 
 date_created: 2024-04-3日 星期三 , 02:21:05 下午
-date_modified: 2024-04-3日 星期三 , 03:01:01 下午
+date_modified: 2024-04-22日 星期一 , 03:15:15 下午
+title: JS小问题笔记
 ---
 ###  typeof 操作符
 > [!note]+

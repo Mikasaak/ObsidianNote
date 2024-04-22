@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
+                "file": "游戏/游戏.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md"
+                "file": "游戏/游戏.md"
               }
             }
           }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
+                "file": "游戏/游戏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
+                "file": "游戏/游戏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,6 +194,31 @@
   },
   "active": "18c640e50cdd9da7",
   "lastOpenFiles": [
+    "templates/add_browser_plugin_template.md",
+    "templates/zoottel_template.md",
+    "Code/JavaScript/元素尺寸和位置.md",
+    "Code/JavaScript/JS小问题笔记.md",
+    "Code/JavaScript/交叉观察器 API-MDN.html",
+    "Code/JavaScript/问题疑惑/问题疑惑.md",
+    "Code/JavaScript/鼠标事件.md",
+    "Code/Code.md",
+    "obsdian技巧学习/插件学习/插件学习.md",
+    "obsdian技巧学习/obsdian技巧学习.md",
+    "工具/工具.md",
+    "工具/好用的浏览器扩展推荐/好用的浏览器扩展推荐.md",
+    "读书/读书.md",
+    "游戏/游戏.md",
+    "电影/电影.md",
+    "动漫/动漫.md",
+    "动漫/看过的动漫/看过的动漫.md",
+    "动漫/看过的动漫/未命名.md",
+    "任务/任务.md",
+    "动漫/看过的动漫",
+    "游戏/崩坏：星穹铁道/崩坏：星穹铁道.md",
+    "游戏/崩坏：星穹铁道/抽卡规划.md",
+    "游戏/崩坏：星穹铁道",
+    "电影/未命名.md",
+    "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
     "attachments/Pasted image 20240422150431.png",
     "attachments/Pasted image 20240422150343.png",
     "attachments/Pasted image 20240422150319.png",
@@ -203,44 +228,19 @@
     "Code/Vue/Vue.md",
     "求职/面试/浏览器渲染原理.md",
     "Excalidraw/Excalidraw.md",
-    "Code/JavaScript/元素尺寸和位置.md",
-    "求职/面试/网络请求相关/网络请求相关.md",
-    "求职/面试/面试.md",
-    "求职/求职.md",
-    "Code/Code.md",
-    "Excalidraw/跨域解决方案的选择.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-17 17.15.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-29 15.58.35.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-27 22.16.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-26 14.55.40.excalidraw.md",
     "Excalidraw/未命名.canvas",
-    "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
     "attachments/Pasted image 20240419163112.png",
     "attachments/Pasted image 20240419155955.png",
     "attachments/Pasted image 20240419155918.png",
-    "求职/面试/网络请求相关/GET 和 POST 的区别.md",
     "attachments/Pasted image 20240419155902.png",
     "attachments/Pasted image 20240419155834.png",
-    "attachments/Pasted image 20240419155818.png",
-    "求职/面试/CSS相关/grid网格布局.md",
-    "求职/面试/CSS相关/浏览器渲染模式.md",
-    "求职/面试/CSS相关/包含块MDN文档.md",
-    "求职/面试/JS相关/typeof 与 instanceof 区别.md",
-    "Code/CSS/CSS3 属性 transform 对其他元素的一些渲染影响及原理.md",
-    "Code/CSS/CSS.md",
-    "Code/CSS/重点笔记/重点笔记.md",
-    "求职/面试/CSS相关/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md",
-    "求职/面试/CSS相关/CSS笔记.md",
     "求职/面试/HTML相关",
-    "Code/JavaScript/交叉观察器 API-MDN.html",
     "求职/面试/JS相关/交叉观察器 API - Web API 接口参考 _ MDN (2024_4_17 20_47_47).html",
     "求职/面试/Vue相关",
     "求职/简历/我的简历/前端简历-2.pdf",
     "HTMLPage/面试官：说说你对 TypeScript 的理解？与 JavaScript 的区别？ _ web前端面试 - 面试官系列 (2024_4_1 20_45_21).html",
     "HTMLPage/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).html",
     "HTMLPage",
-    "PDFBook/Vue.js设计与实现 (霍春阳) (Z-Library).pdf",
-    "PDFBook/02-JavaScript高级程序设计第4版.pdf",
     "未命名.canvas"
   ]
 }
