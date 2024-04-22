@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d36fd0f5baaa6d2e",
+        "id": "a66f799ee481a8fc",
         "type": "tabs",
         "children": [
           {
-            "id": "2e69c162983d1fdd",
+            "id": "18c640e50cdd9da7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "简历参考/【前端导师 _ 济南20-35K】王莹 7年.pdf"
-              }
-            }
-          },
-          {
-            "id": "6728f175e766fc3d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "我的简历/前端简历.pdf"
+                "file": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -119,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我的简历/前端简历.pdf"
+                "file": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md"
               }
             }
           }
@@ -147,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我的简历/前端简历.pdf",
+                "file": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "我的简历/前端简历.pdf",
+                "file": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,57 +187,60 @@
       "obsidian-importer:Open Importer": false,
       "media-extended:Open media": false,
       "remotely-save:Remotely Save": false,
-      "file-tree-alternative:File Tree Alternative Plugin": true
+      "obsidian-custom-frames:Open 飞书": false,
+      "file-tree-alternative:File Tree Alternative Plugin": true,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6728f175e766fc3d",
+  "active": "18c640e50cdd9da7",
   "lastOpenFiles": [
-    "我的简历/简历.pdf",
-    "我的简历/前端简历.pdf",
-    "我的简历/前端简历 (2).pdf",
-    "我的简历/Jianliben_CV20240312402_2.pdf",
-    "我的简历/Jianliben_CV20240312402.pdf",
-    "我的简历",
-    "简历参考/【前端导师 _ 济南20-35K】王莹 7年.pdf",
-    "简历参考/【前端导师 _ 济南20-35K】王震 5年.pdf",
-    "简历参考/【前端导师 _ 济南20-35K】袭建壮 11年.pdf",
-    "简历参考/【前端导师 _ 济南20-35K】盖均辉 3年.pdf",
-    "简历参考/【前端导师 _ 济南20-35K】姚琳琳 6年.pdf",
-    "Code/CSS/重点笔记/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md",
-    "Code/CSS/重点笔记/包含块MDN文档.md",
-    "Code/CSS/重点笔记/CSS笔记.md",
-    "Code/CSS/重点笔记/CSS3新特性（详细版）.md",
-    "Code/CSS/重点笔记/CSS 置换元素（替换元素）.md",
-    "Code/CSS/重点笔记/CSS 之包含块.md",
-    "Code/CSS/重点笔记/CSS 属性计算过程.md",
-    "Code/CSS/重点笔记/CSS 盒模型的理解.md",
-    "Code/CSS/重点笔记/重点笔记.md",
-    "Code/CSS/重点笔记/CSS 的值和单位.md",
-    "Code/CSS/重点笔记/margin负值.md",
-    "Code/CSS/重点笔记/CSS中的%单位 以及 calc().md",
-    "Code/CSS/CSS.md",
+    "attachments/Pasted image 20240422150431.png",
+    "attachments/Pasted image 20240422150343.png",
+    "attachments/Pasted image 20240422150319.png",
+    "attachments/Pasted image 20240422143859.png",
+    "attachments/Pasted image 20240422142344.png",
     "Code/JavaScript/JavaScript.md",
-    "Code/Code.md",
-    "Code/CSS/重点笔记/CSS新特性.md",
-    "Code/CSS/重点笔记/浏览器渲染模式.md",
-    "Code/uni-app/uni-app.md",
-    "Code/JavaScript/重点笔记/重点笔记.md",
-    "Code/JavaScript/问题疑惑/问题疑惑.md",
-    "Code/JavaScript/JS小问题笔记.md",
     "Code/Vue/Vue.md",
-    "Code/Vue/资料/资料.md",
-    "Code/Vue/问题疑惑/Vue问题疑惑.md",
-    "Code/Vue/问题疑惑/问题疑惑.md",
-    "attachments/Pasted image 20240410111856.png",
-    "attachments/Pasted image 20240410111716.png",
-    "attachments/Pasted image 20240407172405.png",
-    "attachments/volar.png",
-    "attachments/Vue 2.png",
-    "attachments/computed 1.gif",
-    "attachments/count 1.png",
-    "attachments/╫╘╢»▓╣│Σvalue.png",
-    "attachments/Pasted image 20240405164225.png",
-    "attachments/Pasted image 20240403233904.png",
+    "求职/面试/浏览器渲染原理.md",
+    "Excalidraw/Excalidraw.md",
+    "Code/JavaScript/元素尺寸和位置.md",
+    "求职/面试/网络请求相关/网络请求相关.md",
+    "求职/面试/面试.md",
+    "求职/求职.md",
+    "Code/Code.md",
+    "Excalidraw/跨域解决方案的选择.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-17 17.15.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-29 15.58.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-27 22.16.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-26 14.55.40.excalidraw.md",
+    "Excalidraw/未命名.canvas",
+    "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
+    "attachments/Pasted image 20240419163112.png",
+    "attachments/Pasted image 20240419155955.png",
+    "attachments/Pasted image 20240419155918.png",
+    "求职/面试/网络请求相关/GET 和 POST 的区别.md",
+    "attachments/Pasted image 20240419155902.png",
+    "attachments/Pasted image 20240419155834.png",
+    "attachments/Pasted image 20240419155818.png",
+    "求职/面试/CSS相关/grid网格布局.md",
+    "求职/面试/CSS相关/浏览器渲染模式.md",
+    "求职/面试/CSS相关/包含块MDN文档.md",
+    "求职/面试/JS相关/typeof 与 instanceof 区别.md",
+    "Code/CSS/CSS3 属性 transform 对其他元素的一些渲染影响及原理.md",
+    "Code/CSS/CSS.md",
+    "Code/CSS/重点笔记/重点笔记.md",
+    "求职/面试/CSS相关/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md",
+    "求职/面试/CSS相关/CSS笔记.md",
+    "求职/面试/HTML相关",
+    "Code/JavaScript/交叉观察器 API-MDN.html",
+    "求职/面试/JS相关/交叉观察器 API - Web API 接口参考 _ MDN (2024_4_17 20_47_47).html",
+    "求职/面试/Vue相关",
+    "求职/简历/我的简历/前端简历-2.pdf",
+    "HTMLPage/面试官：说说你对 TypeScript 的理解？与 JavaScript 的区别？ _ web前端面试 - 面试官系列 (2024_4_1 20_45_21).html",
+    "HTMLPage/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).html",
+    "HTMLPage",
+    "PDFBook/Vue.js设计与实现 (霍春阳) (Z-Library).pdf",
+    "PDFBook/02-JavaScript高级程序设计第4版.pdf",
     "未命名.canvas"
   ]
 }

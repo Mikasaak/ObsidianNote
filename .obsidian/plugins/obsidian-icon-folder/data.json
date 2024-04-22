@@ -6,6 +6,9 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "MyJianli",
+      "MyEbook",
+      "MyGongjukuP",
       "MyMianshiC",
       "MyBishiC",
       "MyTemplate3",
@@ -27,10 +30,7 @@
       "MyHtml",
       "MyCanlender3",
       "MyCanlender",
-      "MyCalendar",
-      "My052Task",
-      "MyTask",
-      "MyAnime(1)"
+      "MyCalendar"
     ],
     "recentlyUsedIconsSize": 25,
     "rules": [],
@@ -86,5 +86,8 @@
   "templates": "MyTemplate3",
   "求职/笔试": "MyBishiC",
   "求职/面试": "MyMianshiC",
-  "Code/Vue/问题疑惑": "MyQuestion(1)"
+  "Code/Vue/问题疑惑": "MyQuestion(1)",
+  "Code/工具库": "MyGongjukuP",
+  "PDFBook": "MyEbook",
+  "求职/简历": "MyJianli"
 }

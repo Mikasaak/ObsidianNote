@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://eizwbs2n02l.feishu.cn/docx/AafFdocKQomGeBxRAXCcLWmdnBf",
+      "displayName": "飞书",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

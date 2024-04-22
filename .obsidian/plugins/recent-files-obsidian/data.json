@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "前端简历",
-      "path": "我的简历/前端简历.pdf"
-    },
-    {
-      "basename": "简历",
-      "path": "我的简历/简历.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】王莹 7年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】王莹 7年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】王震 5年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】王震 5年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】袭建壮 11年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】袭建壮 11年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】盖均辉 3年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】盖均辉 3年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】姚琳琳 6年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】姚琳琳 6年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】马志斌 3年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】马志斌 3年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】马希好 13年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】马希好 13年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】刘建男 3年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】刘建男 3年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】李小玥 3年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】李小玥 3年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】李女士 3年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】李女士 3年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】李可化 2年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】李可化 2年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】贾学文 6年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】贾学文 6年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】桓宪胜 7年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】桓宪胜 7年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】郝清振 7年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】郝清振 7年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】郝立华 3年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】郝立华 3年.pdf"
-    },
-    {
-      "basename": "【前端导师 _ 济南20-35K】高威 3年",
-      "path": "简历参考/【前端导师 _ 济南20-35K】高威 3年.pdf"
-    },
-    {
-      "basename": "区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48)",
-      "path": "Code/CSS/重点笔记/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md"
-    },
-    {
-      "basename": "包含块MDN文档",
-      "path": "Code/CSS/重点笔记/包含块MDN文档.md"
-    },
-    {
-      "basename": "CSS笔记",
-      "path": "Code/CSS/重点笔记/CSS笔记.md"
-    },
-    {
-      "basename": "CSS3新特性（详细版）",
-      "path": "Code/CSS/重点笔记/CSS3新特性（详细版）.md"
-    },
-    {
-      "basename": "CSS 置换元素（替换元素）",
-      "path": "Code/CSS/重点笔记/CSS 置换元素（替换元素）.md"
-    },
-    {
-      "basename": "CSS 之包含块",
-      "path": "Code/CSS/重点笔记/CSS 之包含块.md"
-    },
-    {
-      "basename": "CSS 属性计算过程",
-      "path": "Code/CSS/重点笔记/CSS 属性计算过程.md"
-    },
-    {
-      "basename": "CSS 盒模型的理解",
-      "path": "Code/CSS/重点笔记/CSS 盒模型的理解.md"
-    },
-    {
-      "basename": "重点笔记",
-      "path": "Code/CSS/重点笔记/重点笔记.md"
-    },
-    {
-      "basename": "CSS 的值和单位",
-      "path": "Code/CSS/重点笔记/CSS 的值和单位.md"
-    },
-    {
-      "basename": "margin负值",
-      "path": "Code/CSS/重点笔记/margin负值.md"
-    },
-    {
-      "basename": "CSS中的%单位 以及 calc()",
-      "path": "Code/CSS/重点笔记/CSS中的%单位 以及 calc().md"
-    },
-    {
-      "basename": "CSS",
-      "path": "Code/CSS/CSS.md"
+      "basename": "何为跨域，以及其解决方法",
+      "path": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md"
     },
     {
       "basename": "JavaScript",
       "path": "Code/JavaScript/JavaScript.md"
     },
     {
-      "basename": "Code",
-      "path": "Code/Code.md"
-    },
-    {
-      "basename": "CSS新特性",
-      "path": "Code/CSS/重点笔记/CSS新特性.md"
-    },
-    {
-      "basename": "浏览器渲染模式",
-      "path": "Code/CSS/重点笔记/浏览器渲染模式.md"
-    },
-    {
-      "basename": "uni-app",
-      "path": "Code/uni-app/uni-app.md"
-    },
-    {
-      "basename": "重点笔记",
-      "path": "Code/JavaScript/重点笔记/重点笔记.md"
-    },
-    {
-      "basename": "问题疑惑",
-      "path": "Code/JavaScript/问题疑惑/问题疑惑.md"
-    },
-    {
-      "basename": "JS小问题笔记",
-      "path": "Code/JavaScript/JS小问题笔记.md"
-    },
-    {
       "basename": "Vue",
       "path": "Code/Vue/Vue.md"
     },
     {
-      "basename": "资料",
-      "path": "Code/Vue/资料/资料.md"
+      "basename": "浏览器渲染原理",
+      "path": "求职/面试/浏览器渲染原理.md"
+    },
+    {
+      "basename": "Excalidraw",
+      "path": "Excalidraw/Excalidraw.md"
+    },
+    {
+      "basename": "元素尺寸和位置",
+      "path": "Code/JavaScript/元素尺寸和位置.md"
+    },
+    {
+      "basename": "网络请求相关",
+      "path": "求职/面试/网络请求相关/网络请求相关.md"
+    },
+    {
+      "basename": "面试",
+      "path": "求职/面试/面试.md"
+    },
+    {
+      "basename": "求职",
+      "path": "求职/求职.md"
+    },
+    {
+      "basename": "Code",
+      "path": "Code/Code.md"
+    },
+    {
+      "basename": "跨域解决方案的选择.excalidraw",
+      "path": "Excalidraw/跨域解决方案的选择.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-04-17 17.15.31.excalidraw",
+      "path": "Excalidraw/Drawing 2024-04-17 17.15.31.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-03-29 15.58.35.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-29 15.58.35.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-03-27 22.16.34.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-27 22.16.34.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-03-26 14.55.40.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-26 14.55.40.excalidraw.md"
+    },
+    {
+      "basename": "grid网格布局",
+      "path": "求职/面试/CSS相关/grid网格布局.md"
+    },
+    {
+      "basename": "浏览器渲染模式",
+      "path": "求职/面试/CSS相关/浏览器渲染模式.md"
+    },
+    {
+      "basename": "包含块MDN文档",
+      "path": "求职/面试/CSS相关/包含块MDN文档.md"
+    },
+    {
+      "basename": "typeof 与 instanceof 区别",
+      "path": "求职/面试/JS相关/typeof 与 instanceof 区别.md"
+    },
+    {
+      "basename": "CSS3 属性 transform 对其他元素的一些渲染影响及原理",
+      "path": "Code/CSS/CSS3 属性 transform 对其他元素的一些渲染影响及原理.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "Code/CSS/CSS.md"
+    },
+    {
+      "basename": "重点笔记",
+      "path": "Code/CSS/重点笔记/重点笔记.md"
+    },
+    {
+      "basename": "区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48)",
+      "path": "求职/面试/CSS相关/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md"
+    },
+    {
+      "basename": "CSS笔记",
+      "path": "求职/面试/CSS相关/CSS笔记.md"
+    },
+    {
+      "basename": "margin负值",
+      "path": "求职/面试/CSS相关/margin负值.md"
+    },
+    {
+      "basename": "CSS相关",
+      "path": "求职/面试/CSS相关/CSS相关.md"
     },
     {
       "basename": "HTML笔记",
       "path": "Code/HTML/HTML笔记/HTML笔记.md"
     },
     {
-      "basename": "HTML",
-      "path": "Code/HTML/HTML.md"
+      "basename": "Emmet语法",
+      "path": "Code/HTML/HTML笔记/Emmet语法.md"
     },
     {
-      "basename": "CSS规范",
-      "path": "Code/CSS/CSS规范/CSS规范.md"
-    },
-    {
-      "basename": "深浅拷贝",
-      "path": "Code/JavaScript/重点笔记/深浅拷贝.md"
+      "basename": "如何判断一个元素是否在可视区域中？",
+      "path": "求职/面试/JS相关/如何判断一个元素是否在可视区域中？.md"
     },
     {
       "basename": "TypeScript是什么 及 与 JavaScript 的区别？",
-      "path": "Code/JavaScript/重点笔记/TypeScript是什么 及 与 JavaScript 的区别？.md"
+      "path": "求职/面试/JS相关/TypeScript是什么 及 与 JavaScript 的区别？.md"
     },
     {
-      "basename": "关于Ts与Js效率问题的疑惑",
-      "path": "Code/JavaScript/问题疑惑/关于Ts与Js效率问题的疑惑.md"
+      "basename": "js排序sort函数",
+      "path": "求职/面试/JS相关/js排序sort函数.md"
     },
     {
-      "basename": "02-JavaScript高级程序设计第4版",
-      "path": "PDF/02-JavaScript高级程序设计第4版.pdf"
+      "basename": "JS、深入理解事件循环,这一篇就够了!(必看)",
+      "path": "求职/面试/JS相关/JS、深入理解事件循环,这一篇就够了!(必看).md"
     },
     {
-      "basename": "遇到的问题",
-      "path": "Code/Vue/问题疑惑/遇到的问题.md"
+      "basename": "JS相关",
+      "path": "求职/面试/JS相关/JS相关.md"
     },
     {
-      "basename": "问题笔记",
-      "path": "Code/Vue/问题疑惑/问题笔记.md"
+      "basename": "Promise",
+      "path": "求职/面试/JS相关/Promise.md"
+    },
+    {
+      "basename": "Class",
+      "path": "求职/面试/JS相关/Class.md"
+    },
+    {
+      "basename": "深浅拷贝",
+      "path": "求职/面试/JS相关/深浅拷贝.md"
+    },
+    {
+      "basename": "事件循环",
+      "path": "求职/面试/JS相关/事件循环.md"
+    },
+    {
+      "basename": "交叉观察器 API-MDN",
+      "path": "Code/JavaScript/交叉观察器 API-MDN.html"
+    },
+    {
+      "basename": "JS小问题笔记",
+      "path": "Code/JavaScript/JS小问题笔记.md"
+    },
+    {
+      "basename": "Drawing 2024-04-08 10.34.09.excalidraw",
+      "path": "Excalidraw/Drawing 2024-04-08 10.34.09.excalidraw.md"
+    },
+    {
+      "basename": "问题疑惑",
+      "path": "Code/JavaScript/问题疑惑/问题疑惑.md"
+    },
+    {
+      "basename": "鼠标事件",
+      "path": "Code/JavaScript/鼠标事件.md"
+    },
+    {
+      "basename": "Vue-keep-alive",
+      "path": "求职/面试/Vue相关/Vue-keep-alive.md"
+    },
+    {
+      "basename": "Vue相关",
+      "path": "求职/面试/Vue相关/Vue相关.md"
+    },
+    {
+      "basename": "uni-app",
+      "path": "Code/uni-app/uni-app.md"
+    },
+    {
+      "basename": "问题疑惑",
+      "path": "Code/Vue/问题疑惑/问题疑惑.md"
+    },
+    {
+      "basename": "资料",
+      "path": "Code/Vue/资料/资料.md"
+    },
+    {
+      "basename": "Note for Vue",
+      "path": "Code/Vue/Note for Vue/Note for Vue.md"
+    },
+    {
+      "basename": "相关笔记",
+      "path": "Code/Vue/Note for Vue/相关笔记.md"
+    },
+    {
+      "basename": "Vue的Diff算法",
+      "path": "求职/面试/Vue相关/Vue的Diff算法/Vue的Diff算法.md"
     }
   ],
   "omittedPaths": [],
