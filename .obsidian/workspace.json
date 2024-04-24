@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a66f799ee481a8fc",
+        "id": "b29cf04c967314d8",
         "type": "tabs",
         "children": [
           {
-            "id": "18c640e50cdd9da7",
+            "id": "7c4f6b24cf776e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏/游戏.md",
+                "file": "求职/面试/Vue相关/请描述下你对vue生命周期的理解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27cae160dc19a4b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/微信小程序/课程笔记/网课笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#生命周期钩子",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏/游戏.md"
+                "file": "Code/微信小程序/课程笔记/网课笔记.md"
               }
             }
           }
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏/游戏.md",
+                "file": "Code/微信小程序/课程笔记/网课笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏/游戏.md",
+                "file": "Code/微信小程序/课程笔记/网课笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,55 +206,55 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "18c640e50cdd9da7",
+  "active": "27cae160dc19a4b2",
   "lastOpenFiles": [
-    "templates/add_browser_plugin_template.md",
-    "templates/zoottel_template.md",
-    "Code/JavaScript/元素尺寸和位置.md",
-    "Code/JavaScript/JS小问题笔记.md",
-    "Code/JavaScript/交叉观察器 API-MDN.html",
-    "Code/JavaScript/问题疑惑/问题疑惑.md",
-    "Code/JavaScript/鼠标事件.md",
-    "Code/Code.md",
-    "obsdian技巧学习/插件学习/插件学习.md",
-    "obsdian技巧学习/obsdian技巧学习.md",
-    "工具/工具.md",
-    "工具/好用的浏览器扩展推荐/好用的浏览器扩展推荐.md",
-    "读书/读书.md",
-    "游戏/游戏.md",
-    "电影/电影.md",
-    "动漫/动漫.md",
-    "动漫/看过的动漫/看过的动漫.md",
-    "动漫/看过的动漫/未命名.md",
-    "任务/任务.md",
-    "动漫/看过的动漫",
-    "游戏/崩坏：星穹铁道/崩坏：星穹铁道.md",
-    "游戏/崩坏：星穹铁道/抽卡规划.md",
-    "游戏/崩坏：星穹铁道",
-    "电影/未命名.md",
-    "求职/面试/网络请求相关/何为跨域，以及其解决方法.md",
-    "attachments/Pasted image 20240422150431.png",
-    "attachments/Pasted image 20240422150343.png",
-    "attachments/Pasted image 20240422150319.png",
-    "attachments/Pasted image 20240422143859.png",
-    "attachments/Pasted image 20240422142344.png",
+    "Code/Vue/课程笔记/Vue3/Vue3网课笔记.md",
+    "求职/面试/JS相关/Class.md",
+    "求职/面试/JS相关/事件循环（EventLoop）-CSDN.md",
+    "求职/面试/JS相关/事件循环-渡一.md",
+    "求职/面试/JS相关/JS相关.md",
     "Code/JavaScript/JavaScript.md",
+    "Code/微信小程序/课程笔记/网课笔记.md",
+    "attachments/Pasted image 20240424152530.png",
+    "attachments/Pasted image 20240424151151.png",
+    "attachments/Pasted image 20240424150753.png",
+    "Code/微信小程序/尚硅谷小程序基础笔记/07-小程序原生 API.md",
+    "求职/面试/Vue相关/请描述下你对vue生命周期的理解.md",
+    "求职/面试/Vue相关/Vue相关.md",
+    "attachments/Pasted image 20240423162548.png",
+    "attachments/Pasted image 20240423162533.png",
+    "求职/面试/Vue相关/v-if和v-for的优先级是什么.md",
+    "Code/Vue/课程笔记/课程笔记.md",
     "Code/Vue/Vue.md",
-    "求职/面试/浏览器渲染原理.md",
-    "Excalidraw/Excalidraw.md",
+    "attachments/Pasted image 20240423160202.png",
+    "attachments/Pasted image 20240423153819.png",
+    "attachments/Pasted image 20240423153812.png",
+    "attachments/Pasted image 20240423153722.png",
+    "Code/微信小程序/微信小程序.md",
+    "求职/笔试/笔试题目.md",
+    "求职/笔试/MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "求职/面试/面试.md",
+    "求职/面试/JS相关/for...in 和 for...of的区别以及迭代器.md",
+    "Code/JavaScript/未命名.md",
+    "Code/JavaScript/JS小问题笔记.md",
+    "Code/微信小程序/尚硅谷小程序基础笔记/尚硅谷小程序基础笔记.md",
+    "求职/简历/我的简历/前端简历20240312402_3.pdf",
+    "求职/简历/我的简历/我的简历.md",
+    "求职/简历/简历.md",
+    "Code/微信小程序/尚硅谷小程序基础笔记/05-小程序模板语法.md",
+    "Code/微信小程序/课程笔记/课程笔记.md",
+    "Code/微信小程序/尚硅谷小程序基础笔记/01-小程序基础.md",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme/img/thumbnail-vue3.png",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme/drake/JetBrainsMono-Regular.woff2",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme/drake/JetBrainsMono-Italic.woff2",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme/drake/JetBrainsMono-BoldItalic.woff2",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme/drake/JetBrainsMono-Bold.woff2",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme/drake/font.css",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme/img",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme/drake-vue.css",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme/drake",
+    "Code/微信小程序/尚硅谷小程序基础笔记/Theme",
     "Excalidraw/未命名.canvas",
-    "attachments/Pasted image 20240419163112.png",
-    "attachments/Pasted image 20240419155955.png",
-    "attachments/Pasted image 20240419155918.png",
-    "attachments/Pasted image 20240419155902.png",
-    "attachments/Pasted image 20240419155834.png",
-    "求职/面试/HTML相关",
-    "求职/面试/JS相关/交叉观察器 API - Web API 接口参考 _ MDN (2024_4_17 20_47_47).html",
-    "求职/面试/Vue相关",
-    "求职/简历/我的简历/前端简历-2.pdf",
-    "HTMLPage/面试官：说说你对 TypeScript 的理解？与 JavaScript 的区别？ _ web前端面试 - 面试官系列 (2024_4_1 20_45_21).html",
-    "HTMLPage/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).html",
-    "HTMLPage",
     "未命名.canvas"
   ]
 }

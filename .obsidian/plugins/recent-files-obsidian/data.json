@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "游戏",
-      "path": "游戏/游戏.md"
+      "basename": "网课笔记",
+      "path": "Code/微信小程序/课程笔记/网课笔记.md"
     },
     {
-      "basename": "add_browser_plugin_template",
-      "path": "templates/add_browser_plugin_template.md"
+      "basename": "Vue3网课笔记",
+      "path": "Code/Vue/课程笔记/Vue3/Vue3网课笔记.md"
     },
     {
-      "basename": "zoottel_template",
-      "path": "templates/zoottel_template.md"
+      "basename": "Class",
+      "path": "求职/面试/JS相关/Class.md"
     },
     {
-      "basename": "元素尺寸和位置",
-      "path": "Code/JavaScript/元素尺寸和位置.md"
+      "basename": "事件循环（EventLoop）-CSDN",
+      "path": "求职/面试/JS相关/事件循环（EventLoop）-CSDN.md"
     },
     {
-      "basename": "JS小问题笔记",
-      "path": "Code/JavaScript/JS小问题笔记.md"
+      "basename": "事件循环-渡一",
+      "path": "求职/面试/JS相关/事件循环-渡一.md"
     },
     {
-      "basename": "交叉观察器 API-MDN",
-      "path": "Code/JavaScript/交叉观察器 API-MDN.html"
-    },
-    {
-      "basename": "问题疑惑",
-      "path": "Code/JavaScript/问题疑惑/问题疑惑.md"
-    },
-    {
-      "basename": "鼠标事件",
-      "path": "Code/JavaScript/鼠标事件.md"
-    },
-    {
-      "basename": "Code",
-      "path": "Code/Code.md"
-    },
-    {
-      "basename": "插件学习",
-      "path": "obsdian技巧学习/插件学习/插件学习.md"
-    },
-    {
-      "basename": "obsdian技巧学习",
-      "path": "obsdian技巧学习/obsdian技巧学习.md"
-    },
-    {
-      "basename": "工具",
-      "path": "工具/工具.md"
-    },
-    {
-      "basename": "好用的浏览器扩展推荐",
-      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展推荐.md"
-    },
-    {
-      "basename": "读书",
-      "path": "读书/读书.md"
-    },
-    {
-      "basename": "电影",
-      "path": "电影/电影.md"
-    },
-    {
-      "basename": "动漫",
-      "path": "动漫/动漫.md"
-    },
-    {
-      "basename": "看过的动漫",
-      "path": "动漫/看过的动漫/看过的动漫.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "动漫/看过的动漫/未命名.md"
-    },
-    {
-      "basename": "任务",
-      "path": "任务/任务.md"
-    },
-    {
-      "basename": "崩坏：星穹铁道",
-      "path": "游戏/崩坏：星穹铁道/崩坏：星穹铁道.md"
-    },
-    {
-      "basename": "抽卡规划",
-      "path": "游戏/崩坏：星穹铁道/抽卡规划.md"
-    },
-    {
-      "basename": "何为跨域，以及其解决方法",
-      "path": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md"
+      "basename": "JS相关",
+      "path": "求职/面试/JS相关/JS相关.md"
     },
     {
       "basename": "JavaScript",
       "path": "Code/JavaScript/JavaScript.md"
     },
     {
+      "basename": "07-小程序原生 API",
+      "path": "Code/微信小程序/尚硅谷小程序基础笔记/07-小程序原生 API.md"
+    },
+    {
+      "basename": "请描述下你对vue生命周期的理解",
+      "path": "求职/面试/Vue相关/请描述下你对vue生命周期的理解.md"
+    },
+    {
+      "basename": "Vue相关",
+      "path": "求职/面试/Vue相关/Vue相关.md"
+    },
+    {
+      "basename": "v-if和v-for的优先级是什么",
+      "path": "求职/面试/Vue相关/v-if和v-for的优先级是什么.md"
+    },
+    {
+      "basename": "课程笔记",
+      "path": "Code/Vue/课程笔记/课程笔记.md"
+    },
+    {
       "basename": "Vue",
       "path": "Code/Vue/Vue.md"
     },
     {
-      "basename": "浏览器渲染原理",
-      "path": "求职/面试/浏览器渲染原理.md"
+      "basename": "微信小程序",
+      "path": "Code/微信小程序/微信小程序.md"
     },
     {
-      "basename": "Excalidraw",
-      "path": "Excalidraw/Excalidraw.md"
+      "basename": "笔试题目",
+      "path": "求职/笔试/笔试题目.md"
     },
     {
-      "basename": "网络请求相关",
-      "path": "求职/面试/网络请求相关/网络请求相关.md"
+      "basename": "MarkDown超级教程 Obsidian版 2022.1.12",
+      "path": "求职/笔试/MarkDown超级教程 Obsidian版 2022.1.12.md"
     },
     {
       "basename": "面试",
       "path": "求职/面试/面试.md"
     },
     {
-      "basename": "求职",
-      "path": "求职/求职.md"
+      "basename": "for...in 和 for...of的区别以及迭代器",
+      "path": "求职/面试/JS相关/for...in 和 for...of的区别以及迭代器.md"
     },
     {
-      "basename": "跨域解决方案的选择.excalidraw",
-      "path": "Excalidraw/跨域解决方案的选择.excalidraw.md"
+      "basename": "未命名",
+      "path": "Code/JavaScript/未命名.md"
     },
     {
-      "basename": "Drawing 2024-04-17 17.15.31.excalidraw",
-      "path": "Excalidraw/Drawing 2024-04-17 17.15.31.excalidraw.md"
+      "basename": "JS小问题笔记",
+      "path": "Code/JavaScript/JS小问题笔记.md"
     },
     {
-      "basename": "Drawing 2024-03-29 15.58.35.excalidraw",
-      "path": "Excalidraw/Drawing 2024-03-29 15.58.35.excalidraw.md"
+      "basename": "尚硅谷小程序基础笔记",
+      "path": "Code/微信小程序/尚硅谷小程序基础笔记/尚硅谷小程序基础笔记.md"
     },
     {
-      "basename": "Drawing 2024-03-27 22.16.34.excalidraw",
-      "path": "Excalidraw/Drawing 2024-03-27 22.16.34.excalidraw.md"
+      "basename": "前端简历20240312402_3",
+      "path": "求职/简历/我的简历/前端简历20240312402_3.pdf"
     },
     {
-      "basename": "Drawing 2024-03-26 14.55.40.excalidraw",
-      "path": "Excalidraw/Drawing 2024-03-26 14.55.40.excalidraw.md"
+      "basename": "我的简历",
+      "path": "求职/简历/我的简历/我的简历.md"
     },
     {
-      "basename": "grid网格布局",
-      "path": "求职/面试/CSS相关/grid网格布局.md"
+      "basename": "简历",
+      "path": "求职/简历/简历.md"
     },
     {
-      "basename": "浏览器渲染模式",
-      "path": "求职/面试/CSS相关/浏览器渲染模式.md"
+      "basename": "05-小程序模板语法",
+      "path": "Code/微信小程序/尚硅谷小程序基础笔记/05-小程序模板语法.md"
     },
     {
-      "basename": "包含块MDN文档",
-      "path": "求职/面试/CSS相关/包含块MDN文档.md"
+      "basename": "课程笔记",
+      "path": "Code/微信小程序/课程笔记/课程笔记.md"
     },
     {
-      "basename": "typeof 与 instanceof 区别",
-      "path": "求职/面试/JS相关/typeof 与 instanceof 区别.md"
+      "basename": "01-小程序基础",
+      "path": "Code/微信小程序/尚硅谷小程序基础笔记/01-小程序基础.md"
     },
     {
-      "basename": "CSS3 属性 transform 对其他元素的一些渲染影响及原理",
-      "path": "Code/CSS/CSS3 属性 transform 对其他元素的一些渲染影响及原理.md"
+      "basename": "02-小程序配置文件",
+      "path": "Code/微信小程序/尚硅谷小程序基础笔记/02-小程序配置文件.md"
     },
     {
-      "basename": "CSS",
-      "path": "Code/CSS/CSS.md"
+      "basename": "04-小程序事件系统",
+      "path": "Code/微信小程序/尚硅谷小程序基础笔记/04-小程序事件系统.md"
     },
     {
-      "basename": "重点笔记",
-      "path": "Code/CSS/重点笔记/重点笔记.md"
+      "basename": "obsdian技巧学习",
+      "path": "obsdian技巧学习/obsdian技巧学习.md"
     },
     {
-      "basename": "区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48)",
-      "path": "求职/面试/CSS相关/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md"
+      "basename": "URI，URL，URN的区别",
+      "path": "求职/面试/网络请求相关/URI，URL，URN的区别.md"
     },
     {
-      "basename": "CSS笔记",
-      "path": "求职/面试/CSS相关/CSS笔记.md"
+      "basename": "网络请求相关",
+      "path": "求职/面试/网络请求相关/网络请求相关.md"
     },
     {
-      "basename": "margin负值",
-      "path": "求职/面试/CSS相关/margin负值.md"
+      "basename": "简历",
+      "path": "求职/简历/我的简历/简历.pdf"
     },
     {
-      "basename": "CSS相关",
-      "path": "求职/面试/CSS相关/CSS相关.md"
+      "basename": "前端简历3",
+      "path": "求职/简历/我的简历/前端简历3.pdf"
     },
     {
-      "basename": "HTML笔记",
-      "path": "Code/HTML/HTML笔记/HTML笔记.md"
+      "basename": "前端简历-2",
+      "path": "求职/简历/我的简历/前端简历-2.pdf"
     },
     {
-      "basename": "Emmet语法",
-      "path": "Code/HTML/HTML笔记/Emmet语法.md"
+      "basename": "前端简历",
+      "path": "求职/简历/我的简历/前端简历.pdf"
     },
     {
-      "basename": "如何判断一个元素是否在可视区域中？",
-      "path": "求职/面试/JS相关/如何判断一个元素是否在可视区域中？.md"
+      "basename": "简历参考",
+      "path": "求职/简历/简历参考/简历参考.md"
     },
     {
-      "basename": "TypeScript是什么 及 与 JavaScript 的区别？",
-      "path": "求职/面试/JS相关/TypeScript是什么 及 与 JavaScript 的区别？.md"
+      "basename": "【前端导师 _ 济南20-35K】盖均辉 3年",
+      "path": "求职/简历/简历参考/【前端导师 _ 济南20-35K】盖均辉 3年.pdf"
     },
     {
-      "basename": "js排序sort函数",
-      "path": "求职/面试/JS相关/js排序sort函数.md"
+      "basename": "Ajax、Fetch、Axios三者的区别",
+      "path": "求职/面试/网络请求相关/Ajax、Fetch、Axios三者的区别.md"
+    },
+    {
+      "basename": "为什么说HTTPS比HTTP安全",
+      "path": "求职/面试/网络请求相关/为什么说HTTPS比HTTP安全.md"
+    },
+    {
+      "basename": "GET 和 POST 的区别",
+      "path": "求职/面试/网络请求相关/GET 和 POST 的区别.md"
+    },
+    {
+      "basename": "什么是HTTP，HTTP 和 HTTPS 的区别",
+      "path": "求职/面试/网络请求相关/什么是HTTP，HTTP 和 HTTPS 的区别.md"
+    },
+    {
+      "basename": "何为跨域，以及其解决方法",
+      "path": "求职/面试/网络请求相关/何为跨域，以及其解决方法.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Test/未命名.md"
+    },
+    {
+      "basename": "Test",
+      "path": "Test/Test.md"
+    },
+    {
+      "basename": "浏览器渲染原理",
+      "path": "求职/面试/浏览器渲染原理.md"
+    },
+    {
+      "basename": "笔试",
+      "path": "求职/笔试/笔试.md"
+    },
+    {
+      "basename": "工具",
+      "path": "工具/工具.md"
+    },
+    {
+      "basename": "zoottel_template注意事项",
+      "path": "templates/zoottel_template注意事项.md"
+    },
+    {
+      "basename": "add_browser_plugin_template",
+      "path": "templates/add_browser_plugin_template.md"
     }
   ],
   "omittedPaths": [],

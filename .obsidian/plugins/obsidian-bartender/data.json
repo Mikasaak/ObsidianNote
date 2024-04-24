@@ -26,14 +26,14 @@
       "obsdian技巧学习",
       "使用的插件",
       "Code",
-      "工具",
       "求职",
+      "工具",
       "templates",
       "Excalidraw",
       "Test",
-      "我的简历",
-      "简历参考",
-      "PDFBook"
+      "PDFBook",
+      "HTMLPage",
+      "重点笔记"
     ],
     "Notion/Code": [
       "Notion/Code/Vue",
@@ -64,8 +64,8 @@
       "Code/Vue/Vue.md"
     ],
     "求职": [
-      "求职/笔试",
       "求职/面试",
+      "求职/笔试",
       "求职/简历",
       "求职/求职.md"
     ]
