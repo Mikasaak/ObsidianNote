@@ -48,26 +48,78 @@
       "Code/Vue",
       "Code/JavaScript",
       "Code/CSS",
+      "Code/网络请求",
       "Code/HTML",
-      "Code/工具库",
       "Code/微信小程序",
       "Code/uni-app",
       "Code/Node.js",
       "Code/构建工具",
-      "Code/Code.md"
+      "Code/工具库",
+      "Code/Code.md",
+      "Code/跨平台"
     ],
     "Code/Vue": [
-      "Code/Vue/课程笔记",
-      "Code/Vue/问题笔记",
-      "Code/Vue/Note for Vue",
-      "Code/Vue/插件-库",
-      "Code/Vue/Vue.md"
+      "Code/Vue/Vue面试",
+      "Code/Vue/Vue.md",
+      "Code/Vue/Vue笔记",
+      "Code/Vue/Vue课程笔记",
+      "Code/Vue/Vue问题疑惑",
+      "Code/Vue/Vue插件-库",
+      "Code/Vue/Vue资料"
     ],
     "求职": [
       "求职/面试",
       "求职/笔试",
       "求职/简历",
       "求职/求职.md"
+    ],
+    "Code/JavaScript": [
+      "Code/JavaScript/JS面试",
+      "Code/JavaScript/JS笔记",
+      "Code/JavaScript/交叉观察器 API-MDN.html",
+      "Code/JavaScript/鼠标事件.md",
+      "Code/JavaScript/未命名.md",
+      "Code/JavaScript/问题疑惑",
+      "Code/JavaScript/元素尺寸和位置.md",
+      "Code/JavaScript/JavaScript.md",
+      "Code/JavaScript/JS小问题笔记.md"
+    ],
+    "Code/CSS": [
+      "Code/CSS/CSS面试",
+      "Code/CSS/CSS笔记",
+      "Code/CSS/问题疑惑",
+      "Code/CSS/收藏的样式练习",
+      "Code/CSS/CSS.md",
+      "Code/CSS/CSS3 属性 transform 对其他元素的一些渲染影响及原理.md",
+      "Code/CSS/CSS规范",
+      "Code/CSS/Tailwind CSS"
+    ],
+    "Code/JavaScript/JS面试/JS相关": [
+      "Code/JavaScript/JS面试/JS相关/如何判断一个元素是否在可视区域中？.md",
+      "Code/JavaScript/JS面试/JS相关/深浅拷贝.md",
+      "Code/JavaScript/JS面试/JS相关/事件冒泡和事件捕获.md",
+      "Code/JavaScript/JS面试/JS相关/事件循环-渡一.md",
+      "Code/JavaScript/JS面试/JS相关/事件循环（EventLoop）-CSDN.md",
+      "Code/JavaScript/JS面试/JS相关/async 和 await.md",
+      "Code/JavaScript/JS面试/JS相关/Class.md",
+      "Code/JavaScript/JS面试/JS相关/for...in 和 for...of的区别以及迭代器.md",
+      "Code/JavaScript/JS面试/JS相关/JS、深入理解事件循环,这一篇就够了!(必看).md",
+      "Code/JavaScript/JS面试/JS相关/js排序sort函数.md",
+      "Code/JavaScript/JS面试/JS相关/JS相关.md",
+      "Code/JavaScript/JS面试/JS相关/Promise.md",
+      "Code/JavaScript/JS面试/JS相关/typeof 与 instanceof 区别.md",
+      "Code/JavaScript/JS面试/JS相关/TypeScript是什么 及 与 JavaScript 的区别？.md"
+    ],
+    "Code/微信小程序": [
+      "Code/微信小程序/课程笔记",
+      "Code/微信小程序/微信小程序.md",
+      "Code/微信小程序/尚硅谷小程序基础笔记",
+      "Code/微信小程序/资料"
+    ],
+    "求职/面试": [
+      "求职/面试/面试.md",
+      "求职/面试/浏览器渲染原理.md",
+      "求职/面试/目录.md"
     ]
   },
   "actionBarOrder": {},
