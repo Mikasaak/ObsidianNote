@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "4728dec1c29670fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "14fc6157b9be5d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eef2108e5bcadf5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-小程序生命周期.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4cd99de51fcd527",
+    "type": "split",
+    "children": [
+      {
+        "id": "13f2d5443c782a13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb277df40e1462ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cfdf3a361f288b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb72a42d6a5f574a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5452399f11d06ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1d4fcf479843a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e542a5fee94b0d2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06-小程序生命周期.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92e5648476cfd4b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06-小程序生命周期.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06f70ef1aa15fbea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2f9ca886c7d342a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06-小程序生命周期.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "eef2108e5bcadf5e",
+  "lastOpenFiles": [
+    "07-小程序原生 API.md",
+    "08-小程序自定义组件.md",
+    "05-小程序模板语法.md",
+    "04-小程序事件系统.md",
+    "02-小程序配置文件.md",
+    "01-小程序基础.md",
+    "03-小程序样式与组件.md"
+  ]
+}
