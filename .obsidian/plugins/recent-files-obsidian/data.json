@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "JS笔记",
-      "path": "Code/JavaScript/JS笔记/JS笔记.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "Code/JavaScript/JavaScript.md"
-    },
-    {
-      "basename": "JS面试",
-      "path": "Code/JavaScript/JS面试/JS面试.md"
-    },
-    {
-      "basename": "求职",
-      "path": "求职/求职.md"
-    },
-    {
-      "basename": "面试",
-      "path": "求职/面试/面试.md"
-    },
-    {
-      "basename": "笔试",
-      "path": "求职/笔试/笔试.md"
-    },
-    {
-      "basename": "目录",
-      "path": "求职/面试/目录.md"
-    },
-    {
-      "basename": "浏览器渲染原理",
-      "path": "Code/JavaScript/JS面试/浏览器渲染原理.md"
-    },
-    {
-      "basename": "TypeScript是什么 及 与 JavaScript 的区别？",
-      "path": "Code/JavaScript/JS面试/TypeScript是什么 及 与 JavaScript 的区别？.md"
-    },
-    {
-      "basename": "typeof 与 instanceof 区别",
-      "path": "Code/JavaScript/JS面试/typeof 与 instanceof 区别.md"
-    },
-    {
-      "basename": "Promise",
-      "path": "Code/JavaScript/JS面试/Promise.md"
-    },
-    {
-      "basename": "js排序sort函数",
-      "path": "Code/JavaScript/JS面试/js排序sort函数.md"
-    },
-    {
-      "basename": "JS、深入理解事件循环,这一篇就够了!(必看)",
-      "path": "Code/JavaScript/JS面试/JS、深入理解事件循环,这一篇就够了!(必看).md"
-    },
-    {
-      "basename": "for...in 和 for...of的区别以及迭代器",
-      "path": "Code/JavaScript/JS面试/for...in 和 for...of的区别以及迭代器.md"
-    },
-    {
-      "basename": "Class",
-      "path": "Code/JavaScript/JS面试/Class.md"
-    },
-    {
-      "basename": "事件循环（EventLoop）-CSDN",
-      "path": "Code/JavaScript/JS面试/事件循环（EventLoop）-CSDN.md"
-    },
-    {
-      "basename": "事件循环-渡一",
-      "path": "Code/JavaScript/JS面试/事件循环-渡一.md"
-    },
-    {
-      "basename": "深浅拷贝",
-      "path": "Code/JavaScript/JS面试/深浅拷贝.md"
-    },
-    {
-      "basename": "如何判断一个元素是否在可视区域中？",
-      "path": "Code/JavaScript/JS面试/如何判断一个元素是否在可视区域中？.md"
-    },
-    {
-      "basename": "Vue",
-      "path": "Code/Vue/Vue.md"
-    },
-    {
-      "basename": "工具库",
-      "path": "Code/工具库/工具库.md"
-    },
-    {
-      "basename": "HTML",
-      "path": "Code/HTML/HTML.md"
+      "basename": "HTTP缓存机制",
+      "path": "Code/网络请求/网络请求面试/HTTP缓存机制.md"
     },
     {
       "basename": "网络请求面试",
       "path": "Code/网络请求/网络请求面试/网络请求面试.md"
     },
     {
-      "basename": "未命名",
-      "path": "Code/HTML/HTML面试/未命名.md"
+      "basename": "Code",
+      "path": "Code/Code.md"
     },
     {
-      "basename": "网络请求",
-      "path": "Code/网络请求/网络请求.md"
+      "basename": "HTTP 常见的状态码",
+      "path": "Code/网络请求/网络请求面试/HTTP 常见的状态码.md"
     },
     {
-      "basename": "工具",
-      "path": "工具/工具.md"
+      "basename": "HTML面试",
+      "path": "Code/HTML/HTML面试/HTML面试.md"
     },
     {
-      "basename": "好用的软件推荐",
-      "path": "工具/好用的软件推荐/好用的软件推荐.md"
+      "basename": "JavaScript",
+      "path": "Code/JavaScript/JavaScript.md"
     },
     {
-      "basename": "好用的浏览器扩展推荐",
-      "path": "工具/好用的浏览器扩展推荐/好用的浏览器扩展推荐.md"
+      "basename": "有什么方法可以保持前后端实时通信",
+      "path": "Code/网络请求/网络请求面试/有什么方法可以保持前后端实时通信.md"
     },
     {
-      "basename": "构建工具",
-      "path": "Code/构建工具/构建工具.md"
+      "basename": "什么是HTTP，HTTP 和 HTTPS 的区别",
+      "path": "Code/网络请求/网络请求面试/什么是HTTP，HTTP 和 HTTPS 的区别.md"
     },
     {
-      "basename": "Node.js",
-      "path": "Code/Node.js/Node.js.md"
+      "basename": "何为跨域，以及其解决方法",
+      "path": "Code/网络请求/网络请求面试/何为跨域，以及其解决方法.md"
     },
     {
-      "basename": "uni-app",
-      "path": "Code/uni-app/uni-app.md"
+      "basename": "HTTP详解",
+      "path": "Code/网络请求/网络请求面试/HTTP详解.md"
     },
     {
-      "basename": "微信小程序",
-      "path": "Code/微信小程序/微信小程序.md"
+      "basename": "HTTP 常见的请求头",
+      "path": "Code/网络请求/网络请求面试/HTTP 常见的请求头.md"
     },
     {
-      "basename": "尚硅谷小程序基础笔记",
-      "path": "Code/微信小程序/资料/尚硅谷小程序基础笔记/尚硅谷小程序基础笔记.md"
+      "basename": "Http请求的方式的种类",
+      "path": "求职/面试/记录面试问题/Http请求的方式的种类.md"
     },
     {
-      "basename": "CSS",
-      "path": "Code/CSS/CSS.md"
+      "basename": "get与post请求的区别",
+      "path": "求职/面试/记录面试问题/get与post请求的区别.md"
     },
     {
-      "basename": "课程笔记",
-      "path": "Code/微信小程序/课程笔记/课程笔记.md"
+      "basename": "GET 和 POST 的区别",
+      "path": "Code/网络请求/网络请求面试/GET 和 POST 的区别.md"
     },
     {
-      "basename": "HTML笔记",
-      "path": "Code/HTML/HTML笔记/HTML笔记.md"
+      "basename": "Ajax、Fetch、Axios三者的区别",
+      "path": "Code/网络请求/网络请求面试/Ajax、Fetch、Axios三者的区别.md"
+    },
+    {
+      "basename": "记录面试问题",
+      "path": "求职/面试/记录面试问题/记录面试问题.md"
+    },
+    {
+      "basename": "谈一下Map，Set",
+      "path": "求职/面试/记录面试问题/谈一下Map，Set.md"
+    },
+    {
+      "basename": "Vue2与Vue3的区别",
+      "path": "求职/面试/记录面试问题/Vue2与Vue3的区别.md"
+    },
+    {
+      "basename": "前端简历-2",
+      "path": "求职/简历/我的简历/前端简历-2.pdf"
+    },
+    {
+      "basename": "我的简历",
+      "path": "求职/简历/我的简历/我的简历.md"
+    },
+    {
+      "basename": "简历参考",
+      "path": "求职/简历/简历参考/简历参考.md"
+    },
+    {
+      "basename": "简历",
+      "path": "求职/简历/简历.md"
+    },
+    {
+      "basename": "自我介绍",
+      "path": "求职/面试/自我介绍.md"
+    },
+    {
+      "basename": "面试",
+      "path": "求职/面试/面试.md"
+    },
+    {
+      "basename": "求职",
+      "path": "求职/求职.md"
+    },
+    {
+      "basename": "CSS 盒模型的理解",
+      "path": "Code/CSS/CSS面试/CSS 盒模型的理解.md"
+    },
+    {
+      "basename": "webpack面试题",
+      "path": "Code/构建工具/构建工具面试/webpack面试题.md"
+    },
+    {
+      "basename": "HTML",
+      "path": "Code/HTML/HTML.md"
     },
     {
       "basename": "CSS面试",
       "path": "Code/CSS/CSS面试/CSS面试.md"
     },
     {
+      "basename": "包含块MDN文档",
+      "path": "Code/CSS/CSS面试/包含块MDN文档.md"
+    },
+    {
+      "basename": "CSS新特性",
+      "path": "Code/CSS/CSS面试/CSS新特性.md"
+    },
+    {
+      "basename": "区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48)",
+      "path": "Code/CSS/CSS面试/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).md"
+    },
+    {
+      "basename": "响应式布局",
+      "path": "Code/CSS/CSS面试/响应式布局.md"
+    },
+    {
+      "basename": "原子化CSS",
+      "path": "Code/CSS/CSS面试/原子化CSS.md"
+    },
+    {
       "basename": "CSS笔记",
       "path": "Code/CSS/CSS笔记/CSS笔记.md"
     },
     {
-      "basename": "问题疑惑",
-      "path": "Code/JavaScript/问题疑惑/问题疑惑.md"
+      "basename": "区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48)",
+      "path": "HTMLPage/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).html"
     },
     {
-      "basename": "Test",
-      "path": "Test/Test.md"
+      "basename": "面试官：说说你对 TypeScript 的理解？与 JavaScript 的区别？ _ web前端面试 - 面试官系列 (2024_4_1 20_45_21)",
+      "path": "HTMLPage/面试官：说说你对 TypeScript 的理解？与 JavaScript 的区别？ _ web前端面试 - 面试官系列 (2024_4_1 20_45_21).html"
     },
     {
-      "basename": "Vue面试",
-      "path": "Code/Vue/Vue面试/Vue面试.md"
+      "basename": "任务",
+      "path": "任务/任务.md"
     },
     {
-      "basename": "Vue插件-库",
-      "path": "Code/Vue/Vue插件-库/Vue插件-库.md"
+      "basename": "内嵌网页",
+      "path": "obsdian技巧学习/内嵌网页.md"
     },
     {
-      "basename": "Vue资料",
-      "path": "Code/Vue/Vue资料/Vue资料.md"
+      "basename": "插件学习",
+      "path": "obsdian技巧学习/插件学习/插件学习.md"
     },
     {
-      "basename": "Vue问题疑惑",
-      "path": "Code/Vue/Vue问题疑惑/Vue问题疑惑.md"
+      "basename": "obsdian技巧学习",
+      "path": "obsdian技巧学习/obsdian技巧学习.md"
     },
     {
-      "basename": "Vue课程笔记",
-      "path": "Code/Vue/Vue课程笔记/Vue课程笔记.md"
+      "basename": "未命名 1",
+      "path": "未命名/未命名 1.md"
     },
     {
-      "basename": "问题疑惑",
-      "path": "Code/Vue/Vue问题疑惑/问题疑惑.md"
+      "basename": "未命名",
+      "path": "未命名/未命名.md"
     },
     {
-      "basename": "Vue笔记",
-      "path": "Code/Vue/Vue笔记/Vue笔记.md"
+      "basename": "网络请求",
+      "path": "Code/网络请求/网络请求.md"
     },
     {
-      "basename": "Code",
-      "path": "Code/Code.md"
+      "basename": "Emmet语法",
+      "path": "Code/HTML/HTML笔记/Emmet语法.md"
     },
     {
-      "basename": "MarkDown超级教程 Obsidian版 2022.1.12",
-      "path": "obsdian技巧学习/MarkDown超级教程 Obsidian版 2022.1.12.md"
+      "basename": "a标签如何禁止href跳转或链接？",
+      "path": "Code/HTML/HTML笔记/a标签如何禁止href跳转或链接？.md"
     },
     {
-      "basename": "Tailwind CSS",
-      "path": "Code/CSS/Tailwind CSS/Tailwind CSS.md"
+      "basename": "HTML笔记",
+      "path": "Code/HTML/HTML笔记/HTML笔记.md"
+    },
+    {
+      "basename": "vue样式穿透的几种方式",
+      "path": "Code/Vue/Vue面试/vue样式穿透的几种方式.md"
+    },
+    {
+      "basename": "Vue",
+      "path": "Code/Vue/Vue.md"
+    },
+    {
+      "basename": "11-小程序开放能力",
+      "path": "Code/微信小程序/资料/尚硅谷小程序基础笔记/11-小程序开放能力.md"
     }
   ],
   "omittedPaths": [],

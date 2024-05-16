@@ -53,8 +53,6 @@ GET /index.html?name=qiming.c&age=22 HTTP/1.1
 Host: localhost
 ```
 
-1  
-2  
 
 `POST`方法简约版报文是这样的
 
@@ -65,12 +63,6 @@ Content-Type: application/x-www-form-urlencoded
 
 name=qiming.c&age=22
 ```
-
-1  
-2  
-3  
-4  
-5  
 
 注意：这里只是约定，并不属于`HTTP`规范，相反的，我们可以在`POST`请求中`url`中写入参数，或者`GET`请求中的`body`携带参数
 

@@ -120,6 +120,26 @@
       "求职/面试/面试.md",
       "求职/面试/浏览器渲染原理.md",
       "求职/面试/目录.md"
+    ],
+    "Code/Vue/Vue课程笔记/Vue2": [
+      "Code/Vue/Vue课程笔记/Vue2/Vue2.md",
+      "Code/Vue/Vue课程笔记/Vue2/Vue2网课笔记.md",
+      "Code/Vue/Vue课程笔记/Vue2/Vue2疑惑问题",
+      "Code/Vue/Vue课程笔记/Vue2/资料"
+    ],
+    "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档": [
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/黑马MD文档.md",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day01",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day02",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day03",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day04",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day05",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day06",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day07",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day08-day10-智慧商城项目",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day11-Vue3入门",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/11-day12-day14-大事件管理系统",
+      "Code/Vue/Vue课程笔记/Vue2/资料/黑马MD文档/day12-Pinia"
     ]
   },
   "actionBarOrder": {},

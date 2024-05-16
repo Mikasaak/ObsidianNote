@@ -1,11 +1,5 @@
 # 图解CSS：CSS 的值和单位
 
-[![大漠](https://pica.zhimg.com/v2-39b69b8cb637dfacefae22047b964f39_l.jpg?source=172ae18b)](https://www.zhihu.com/people/w3cplus)
-
-[大漠](https://www.zhihu.com/people/w3cplus)
-
-[​](https://www.zhihu.com/question/48509984)
-
 前端开发话题下的优秀答主
 
 11 人赞同了该文章

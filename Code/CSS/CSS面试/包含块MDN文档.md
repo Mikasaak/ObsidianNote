@@ -1,5 +1,4 @@
-
-[Fetching Title#28ik](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Containing_block)
+tching Title#28ik](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Containing_block)
 # 布局和包含块
 一个元素的尺寸和位置经常受其**包含块**（containing block）的影响。大多数情况下，包含块就是这个元素最近的祖先[块元素](https://developer.mozilla.org/zh-CN/docs/Glossary/Block-level_content)的[内容区域](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model#%E5%86%85%E5%AE%B9%E5%8C%BA%E5%9F%9F)，但也不是总是这样。在本文中，我们来过一遍确定包含块的所有因素。
 

@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b29cf04c967314d8",
+        "id": "9b58ebca711dc567",
         "type": "tabs",
         "children": [
           {
-            "id": "7c4f6b24cf776e56",
+            "id": "45ced523f9fedabd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Vue/Vue面试/Vue相关/请描述下你对vue生命周期的理解.md",
+                "file": "Code/网络请求/网络请求面试/GET 和 POST 的区别.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27cae160dc19a4b2",
+            "id": "c85d68b1cd29eabc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/JavaScript/JS笔记/JS笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c8c3c60a929d4ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/Vue/Vue课程笔记/Vue2/Vue2网课笔记.md",
+                "file": "Code/网络请求/网络请求面试/HTTP缓存机制.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/JavaScript/JS笔记/JS笔记.md"
+                "file": "Code/网络请求/网络请求面试/HTTP缓存机制.md"
               }
             }
           }
@@ -163,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/JavaScript/JS笔记/JS笔记.md",
+                "file": "Code/网络请求/网络请求面试/HTTP缓存机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/JavaScript/JS笔记/JS笔记.md",
+                "file": "Code/网络请求/网络请求面试/HTTP缓存机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,54 +206,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "27cae160dc19a4b2",
+  "active": "c85d68b1cd29eabc",
   "lastOpenFiles": [
-    "Code/JavaScript/JavaScript.md",
-    "Code/JavaScript/JS面试/JS面试.md",
-    "求职/求职.md",
-    "求职/面试/面试.md",
-    "求职/笔试/笔试.md",
-    "求职/面试/目录.md",
-    "Code/JavaScript/JS面试/浏览器渲染原理.md",
-    "Code/JavaScript/JS面试/TypeScript是什么 及 与 JavaScript 的区别？.md",
-    "Code/JavaScript/JS面试/typeof 与 instanceof 区别.md",
-    "Code/JavaScript/JS面试/Promise.md",
-    "Code/JavaScript/JS面试/js排序sort函数.md",
-    "Code/JavaScript/JS面试/JS、深入理解事件循环,这一篇就够了!(必看).md",
-    "Code/JavaScript/JS面试/for...in 和 for...of的区别以及迭代器.md",
-    "Code/JavaScript/JS面试/Class.md",
-    "Code/JavaScript/JS面试/事件循环（EventLoop）-CSDN.md",
-    "Code/JavaScript/JS面试/事件循环-渡一.md",
-    "Code/JavaScript/JS面试/深浅拷贝.md",
-    "Code/JavaScript/JS面试/如何判断一个元素是否在可视区域中？.md",
-    "Code/Vue/Vue.md",
-    "Code/工具库/工具库.md",
-    "Code/HTML/HTML.md",
     "Code/网络请求/网络请求面试/网络请求面试.md",
-    "Code/HTML/HTML面试/未命名.md",
+    "Code/网络请求/网络请求面试/HTTP缓存机制.md",
+    "Code/Code.md",
+    "Code/设计模式",
+    "Code/网络请求/网络请求面试/HTTP 常见的状态码.md",
     "Code/HTML/HTML面试/HTML面试.md",
-    "Code/HTML/未命名",
-    "Code/网络请求/网络请求.md",
-    "工具/工具.md",
-    "Code/微信小程序/资料",
-    "Code/CSS/CSS笔记",
-    "Code/JavaScript/JS笔记/交叉观察器 API-MDN.html",
-    "Code/JavaScript/JS笔记",
-    "Code/跨平台",
-    "Code/网络请求",
-    "Code/Vue/Vue面试",
-    "Code/HTML/HTML面试",
-    "Code/CSS/CSS面试",
-    "attachments/Pasted image 20240425195344.png",
-    "attachments/Pasted image 20240425143833.png",
-    "attachments/Pasted image 20240425143517.png",
-    "attachments/Pasted image 20240424211643.png",
-    "attachments/Pasted image 20240424211206.png",
-    "attachments/Pasted image 20240424211200.png",
-    "attachments/Pasted image 20240424201541.png",
-    "attachments/Pasted image 20240424152530.png",
-    "attachments/Pasted image 20240424151151.png",
-    "attachments/Pasted image 20240424150753.png",
+    "Code/JavaScript/JavaScript.md",
+    "Code/网络请求/网络请求面试/有什么方法可以保持前后端实时通信.md",
+    "Code/网络请求/网络请求面试/什么是HTTP，HTTP 和 HTTPS 的区别.md",
+    "Code/网络请求/网络请求面试/何为跨域，以及其解决方法.md",
+    "Code/网络请求/网络请求面试/HTTP详解.md",
+    "Code/网络请求/网络请求面试/HTTP 常见的请求头.md",
+    "求职/面试/记录面试问题/Http请求的方式的种类.md",
+    "求职/面试/记录面试问题/get与post请求的区别.md",
+    "Code/网络请求/网络请求面试/GET 和 POST 的区别.md",
+    "attachments/Pasted image 20240516155451.png",
+    "attachments/Pasted image 20240516155438.png",
+    "Code/网络请求/网络请求面试/Ajax、Fetch、Axios三者的区别.md",
+    "求职/面试/记录面试问题/记录面试问题.md",
+    "求职/面试/记录面试问题/谈一下Map，Set.md",
+    "求职/面试/记录面试问题/Vue2与Vue3的区别.md",
+    "求职/简历/我的简历/前端简历-2.pdf",
+    "求职/简历/我的简历/我的简历.md",
+    "求职/简历/简历参考/简历参考.md",
+    "求职/简历/简历.md",
+    "求职/面试/自我介绍.md",
+    "求职/面试/面试.md",
+    "求职/求职.md",
+    "Code/CSS/CSS面试/CSS 盒模型的理解.md",
+    "Code/构建工具/构建工具面试/构建工具面试.md",
+    "Code/构建工具/构建工具面试",
+    "HTMLPage/区块格式化上下文 - CSS：层叠样式表 _ MDN (2024_4_1 14_24_48).html",
+    "HTMLPage/面试官：说说你对 TypeScript 的理解？与 JavaScript 的区别？ _ web前端面试 - 面试官系列 (2024_4_1 20_45_21).html",
+    "未命名",
+    "求职/面试/记录面试问题",
+    "求职/简历/我的简历/前端简历.pdf",
+    "求职/简历/我的简历/简历.pdf",
+    "PDFBook/Vue.js设计与实现 (霍春阳) (Z-Library).pdf",
+    "attachments/Pasted image 20240426170342.png",
+    "attachments/Pasted image 20240426151844.png",
+    "Code/Vue/Vue资料/黑马MD文档/day11-Vue3入门/day11-Vue3入门/assets/image-20230704082955748.png",
+    "Code/Vue/Vue资料/黑马MD文档/day11-Vue3入门/day11-Vue3入门/assets/image-20230704083056549.png",
+    "Code/Vue/Vue资料/黑马MD文档/day11-Vue3入门/day11-Vue3入门/assets/9.png",
+    "Code/Vue/Vue资料/黑马MD文档/day11-Vue3入门/day11-Vue3入门/assets/image-20230704083027349.png",
+    "Code/Vue/Vue资料/黑马MD文档/day11-Vue3入门/day11-Vue3入门/assets/8.png",
+    "Code/Vue/Vue资料/黑马MD文档/day11-Vue3入门/day11-Vue3入门/assets/7.png",
     "Excalidraw/未命名.canvas",
     "未命名.canvas"
   ]
